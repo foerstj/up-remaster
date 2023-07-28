@@ -12,35 +12,33 @@
 
 [lore]
 {
-       //1. Journal excerpt by Relran, guard to Lord Hovart: given by Elddim Guard Captain
-      [lore_hovart]
-      {
-		description = "Threb the 3rd, 1017 \n\n I've entered into the employment of one Lord Hovart. From what the other guards say, Sir Hovart has been the Liege Lord of these parts for fifty years. Seems he's of royal blood, though you couldn't tell by looking at him. Queen's cousin or some such. He's of average build, dark eyes, dark hair, impeccably dressed. The others tell me to watch my step around him; as he's known for flying into a rage without any provocation, but so far, he's been nothing but charming.\n\nThreb the 18th, 1017 \n\n Slogged through the newly excavated tunnels today. Hovart claims he is building some sort of underground fortress. I tried to tell him I didn't sign on to dig pits, but he just laughed. I guess I can't complain too much. At least he was down there working just as hard as the rest of us, getting his white frock coat all muddy. But still, I'm a fighting man, not a mine monkey. The men don't seem to think this work'll last long. There's a wager going on how many days more it'll last afore Hovart gets bored. But I don't know. He seems awfully determined... Elbert Nolan, who's been with Hovart's contingent for the last ten years, says Hovart engages in these sort of projects at least twice a year. None of them are ever finished though. Seems accurate; I've come across the oddest contraptions grown dusty in some of the unused rooms. \n\nFoth the 1st, 1017 \n\n Work continues at breakneck pace. No one's wagering anymore. Not since SHE arrived. We all knew Hovart had been courting an exotic dark Lady from another land. I'd caught glimpses of her once or twice; not what I'd call beautiful, but certainly striking in a chilling sort of way. We knew that Hovart had found a bride, and that she had insisted on living in an underground palace. Which explains why, out of all the masses of unfinished projects Hovart began, we're actually close to completing this one. Lady Sathar arrived yesterday with much fanfare, driving a column of spiders and wild beasts before her. Even now, I can hear the scratches and skitters of her 'pets' as she calls them. Spiders! I have a bad feeling about this. The Lady is not natural, I don't think, no human is that...cold. \n\nManarz the 9th, 1018 \n\n Been a few months since I've had privacy enough to write. The stronghold is complete, and the spiders, scratch that, 'White Mothers,' as the Lady insists we call them, have started producing silk. Lord Hovart has been behaving even more oddly than usual. Frequently stops speaking mid sentence, as if distracted by some otherworldly matter. His very flesh has started changing, darkening, as if he weren't quite there... The Lady and he have been conferring with that Dwarven zealot, Mage Umberdeep. They are afraid of the peasants for some reason. Something about the fragility of the latest experiment, and how everything depends on it. Why so much secrecy? The raids on the mines have been successful, thanks to Umberdeep's enchantments, and the artifact will be completed by sunset and placed in the ancient crypt for safekeeping, they say. What that means, I haven't a clue, but we have been instructed to bolt the outer doors and allow no one in or out.\n\nSmoth the 30th, 1019 \n\n Blackness is my world. The Lord and Lady have dissapeared. Only the inner circle have the means to reach the outside world, and they only leave to bring back whichever peasants were unwise enough to be lurking around the outer domes. The White Mothers are hungry again. The White Mothers are always hungry. Those who serve the Mothers are no longer...among the living. Only the Lady and her barbaric people are safe from the Mothers' poison. We unlucky humans die painful deaths, only to rise and live again as something evil. Even now my hand is shriveled and dry. When the Mage's artifact is found and the doors are opened once more, humanity will be doomed.";
-      }
+    //1. Journal excerpt by Relran, guard to Lord Hovart: given by Elddim Guard Captain
+    [lore_hovart]
+    {
+        description = "Threb the 3rd, 1017 \n\n I've entered into the employment of one Lord Hovart. From what the other guards say, Sir Hovart has been the Liege Lord of these parts for fifty years. Seems he's of royal blood, though you couldn't tell by looking at him. Queen's cousin or some such. He's of average build, dark eyes, dark hair, impeccably dressed. The others tell me to watch my step around him; as he's known for flying into a rage without any provocation, but so far, he's been nothing but charming.\n\nThreb the 18th, 1017 \n\n Slogged through the newly excavated tunnels today. Hovart claims he is building some sort of underground fortress. I tried to tell him I didn't sign on to dig pits, but he just laughed. I guess I can't complain too much. At least he was down there working just as hard as the rest of us, getting his white frock coat all muddy. But still, I'm a fighting man, not a mine monkey. The men don't seem to think this work'll last long. There's a wager going on how many days more it'll last afore Hovart gets bored. But I don't know. He seems awfully determined... Elbert Nolan, who's been with Hovart's contingent for the last ten years, says Hovart engages in these sort of projects at least twice a year. None of them are ever finished though. Seems accurate; I've come across the oddest contraptions grown dusty in some of the unused rooms. \n\nFoth the 1st, 1017 \n\n Work continues at breakneck pace. No one's wagering anymore. Not since SHE arrived. We all knew Hovart had been courting an exotic dark Lady from another land. I'd caught glimpses of her once or twice; not what I'd call beautiful, but certainly striking in a chilling sort of way. We knew that Hovart had found a bride, and that she had insisted on living in an underground palace. Which explains why, out of all the masses of unfinished projects Hovart began, we're actually close to completing this one. Lady Sathar arrived yesterday with much fanfare, driving a column of spiders and wild beasts before her. Even now, I can hear the scratches and skitters of her 'pets' as she calls them. Spiders! I have a bad feeling about this. The Lady is not natural, I don't think, no human is that...cold. \n\nManarz the 9th, 1018 \n\n Been a few months since I've had privacy enough to write. The stronghold is complete, and the spiders, scratch that, 'White Mothers,' as the Lady insists we call them, have started producing silk. Lord Hovart has been behaving even more oddly than usual. Frequently stops speaking mid sentence, as if distracted by some otherworldly matter. His very flesh has started changing, darkening, as if he weren't quite there... The Lady and he have been conferring with that Dwarven zealot, Mage Umberdeep. They are afraid of the peasants for some reason. Something about the fragility of the latest experiment, and how everything depends on it. Why so much secrecy? The raids on the mines have been successful, thanks to Umberdeep's enchantments, and the artifact will be completed by sunset and placed in the ancient crypt for safekeeping, they say. What that means, I haven't a clue, but we have been instructed to bolt the outer doors and allow no one in or out.\n\nSmoth the 30th, 1019 \n\n Blackness is my world. The Lord and Lady have dissapeared. Only the inner circle have the means to reach the outside world, and they only leave to bring back whichever peasants were unwise enough to be lurking around the outer domes. The White Mothers are hungry again. The White Mothers are always hungry. Those who serve the Mothers are no longer...among the living. Only the Lady and her barbaric people are safe from the Mothers' poison. We unlucky humans die painful deaths, only to rise and live again as something evil. Even now my hand is shriveled and dry. When the Mage's artifact is found and the doors are opened once more, humanity will be doomed.";
+    }
 
- //2. Riddle Book within the Townstone quest dungeon
-      [lore_riddle]
-      {
-		description = "\n\n\n\n\n\n                             Climb to the sky on the sunbaked mesa.\n\n                            Give to the moon with the treble stones.\n\n                          Place down the eye of the crystal temple.\n\n                              Gift of the steel from a virgin hand.\n\n                               The final piece is within your grasp.\n\n                                A leap of faith convenes his trial.";
-      }
+    //2. Riddle Book within the Townstone quest dungeon
+    [lore_riddle]
+    {
+        description = "\n\n\n\n\n\n                             Climb to the sky on the sunbaked mesa.\n\n                            Give to the moon with the treble stones.\n\n                          Place down the eye of the crystal temple.\n\n                              Gift of the steel from a virgin hand.\n\n                               The final piece is within your grasp.\n\n                                A leap of faith convenes his trial.";
+    }
 
- //1. Lorebook in Elddim Shrine about the Ancient Utraeans who built the HUB
-      [lore_utraean]
-      {
+    //1. Lorebook in Elddim Shrine about the Ancient Utraeans who built the HUB
+    [lore_utraean]
+    {
+        description = "To Be Added";
+    }
 
-		description = "To Be Added";
-      }
+    //1. Lorebook in Elddim Shrine about the Town Circle and Townstones
+    [lore_circle]
+    {
+        description = "To Be Added";
+    }
 
-       //1. Lorebook in Elddim Shrine about the Town Circle and Townstones
-      [lore_circle]
-      {
-
-		description = "To Be Added";
-      }
-//1. Placeholder Lorebook as quest reward reminder
-      [placeholder]
-      {
-
-		description = "I am a placeholder quest reward! Change me into phat lewt, fewl!";
-      }
+    //1. Placeholder Lorebook as quest reward reminder
+    [placeholder]
+    {
+        description = "I am a placeholder quest reward! Change me into phat lewt, fewl!";
+    }
 }
