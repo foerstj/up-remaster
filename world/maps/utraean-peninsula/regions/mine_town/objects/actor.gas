@@ -1,3 +1,37 @@
+[t:up_gloern,n:0x00c00351]
+{
+	[aspect]
+	{
+	  f max_life = 147;
+	  f max_mana = 37;
+	}
+	[common]
+	{
+	  b is_multi_player = false;
+	}
+	[conversation]
+	{
+		[conversations]
+		{
+			* = conversation_gloern_accept_have_money;
+			* = conversation_gloern_accept_no_money;
+			* = conversation_gloern_disband;
+			* = conversation_gloern_disband_rejoin;
+			* = conversation_gloern_join;
+			* = conversation_gloern_reject;
+			* = conversation_gloern_rejoin;
+		}
+	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\utraean-peninsula\job_talk_companion.skrit?namespace=gloern&oid=0xc00351;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.130928,0,0.991392;
+	  p position = 0.51071,0,0.47071,0xc73af851;
+	}
+}
 [t:mp_dwarf_worker,n:0x00c003bb]
 {
 	[common]
@@ -366,40 +400,6 @@
 	{
 	  q orientation = 0,0.707107,0,0.707107;
 	  p position = -1.08059,-2,0.418256,0xbd469bbb;
-	}
-}
-[t:up_gloern,n:0x00c00351]
-{
-	[aspect]
-	{
-	  f max_life = 147;
-	  f max_mana = 37;
-	}
-	[common]
-	{
-	  b is_multi_player = false;
-	}
-	[conversation]
-	{
-		[conversations]
-		{
-			* = conversation_gloern_accept_have_money;
-			* = conversation_gloern_accept_no_money;
-			* = conversation_gloern_disband;
-			* = conversation_gloern_disband_rejoin;
-			* = conversation_gloern_join;
-			* = conversation_gloern_reject;
-			* = conversation_gloern_rejoin;
-		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\utraean-peninsula\job_talk_companion.skrit?namespace=gloern&oid=0xc00351;
-	}
-	[placement]
-	{
-	  q orientation = 0,0.130928,0,0.991392;
-	  p position = 0.51071,0,0.47071,0xc73af851;
 	}
 }
 [t:smith_jerena_strongblade,n:0x00c003d0]
