@@ -16,6 +16,13 @@ This map is re-buildable and editable. I opened & saved every region in Siege Ed
 - Most importantly, the veteran & elite world levels are auto-generated. Siege Editor cannot handle them and deletes them when opening & saving a region anyway.\
   The original world levels were created with a script as well, but details were hand-edited, sometimes rather inconsistently. Generating everything automatically therefore created lots of minor differences to the original world levels. Some of these differences are functional changes, but they're so small they'll hardly be noticed.
 
+## What I did (revisit)
+
+The "revisited" map variant is based on the remaster, with these additional changes:
+- Fixed a tree floating in mid-air, add a missing sign post, put mugs on tables in Elddim tavern
+- Brushed up plants that had default scaling / orientation
+- Renamed map ingame to *Utraean Peninsula (revisited)*
+
 ## How to build
 
 GasPy repo: https://github.com/foerstj/gaspy
