@@ -1142,3 +1142,31 @@
 	  p position = 0.106612,-11.3167,-5.92754,0x3db9af63;
 	}
 }
+[t:trigger_fade_nodes_box,n:0x07101057]
+{
+	[common]
+	{
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = fade_nodes(0xAEA40100,1,-1,-1,"in"), doc("Fade dgn back in if left faded by castle");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(12.000000,4.000000,8.000000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = true;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[placement]
+	{
+	  p position = 3.97262,-11.7301,-5.2169,0xf18bc157;
+	}
+}
