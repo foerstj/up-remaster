@@ -39,7 +39,7 @@
 			[*]
 			{
 				action* = mood_change("multiplayer_world_castle_dun_1");
-				action* = fade_nodes(0xAAA20200,1,-1,-1,"out:black");
+				action* = fade_nodes(0xAAA20200,1,-1,-1,"in");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(4.000000,2.000000,1.000000,"on_every_enter");
 			  f delay = 0.000000;
@@ -2599,5 +2599,33 @@
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
 	  p position = 0.634607,-1.5,-1.96407,0x9374c388;
+	}
+}
+[t:trigger_change_mood_box,n:0x06f00136]
+{
+	[common]
+	{
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = fade_nodes(0xAAA20200,1,-1,-1,"out:black");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(4.000000,2.000000,1.000000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[placement]
+	{
+	  p position = 0.024627,-1.90735e-006,0.681566,0xc49bee7d;
 	}
 }
