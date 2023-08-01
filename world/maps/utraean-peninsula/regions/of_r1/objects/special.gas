@@ -756,6 +756,50 @@
 	  p position = -3.1482,0,3.47326,0x6d924b91;
 	}
 }
+[t:trigger_change_mood_box,n:0x05a01a83]
+{
+	[common]
+	{
+		dev_instance_text = "MOOD + PWL";
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = mood_change("multiplayer_world_of_r1_4");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(4.000000,1.000000,2.000000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+			[*]
+			{
+				action* = set_player_world_location("redwood_gap");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(4.000000,1.000000,2.000000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = false;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[placement]
+	{
+	  p position = 0.331695,-12,-3.64711,0x4c3a32f0;
+	}
+}
 [t:trigger_rec_msg_activate,n:0x05a00412]
 {
 	[common]
@@ -1162,6 +1206,34 @@
 	[placement]
 	{
 	  p position = 3.17342,-3,1.66412,0xd71bdd35;
+	}
+}
+[t:trigger_change_mood_box,n:0x05a01a82]
+{
+	[common]
+	{
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = mood_change("multiplayer_world_of_r1_8");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(4.000000,1.000000,2.000000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[placement]
+	{
+	  p position = 0.0770561,-12,3.60665,0xaa38c692;
 	}
 }
 [t:trigger_change_mood_box,n:0x05a00541]

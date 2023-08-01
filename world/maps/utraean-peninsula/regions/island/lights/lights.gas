@@ -309,10 +309,10 @@
 	  f outer_radius = 10.000000;
 		[position]
 		{
-		  x node = 0x7D4783C5;
-		  f x = 2.121277;
-		  f y = 5.416414;
-		  f z = 0.367565;
+		  x node = 0xC4096410;
+		  f x = 0.410023;
+		  f y = 5.416412;
+		  f z = 0.435535;
 		}
 	}
 	[t:point,n:light_0xe24457ce]
