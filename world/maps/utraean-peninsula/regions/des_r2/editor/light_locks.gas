@@ -245,7 +245,7 @@
   b 0x5a90d9b3 = false;
   b 0x5ac277b5 = false;
   b 0x5b149600 = false;
-  b 0x5b4346e6 = false;
+  b 0x5b4346e6 = true;
   b 0x5bdefb18 = false;
   b 0x5cf797b2 = false;
   b 0x5d1e8827 = false;
