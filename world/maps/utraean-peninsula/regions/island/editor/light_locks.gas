@@ -705,7 +705,6 @@
   b 0x7c30efce = false;
   b 0x7c7ffde1 = false;
   b 0x7d37de95 = false;
-  b 0x7d4783c5 = false;
   b 0x7d49032e = false;
   b 0x7dc6dc9f = false;
   b 0x7df4d8f2 = false;
@@ -1159,6 +1158,7 @@
   b 0xc2dd1292 = false;
   b 0xc2ecc936 = false;
   b 0xc2edd5ca = false;
+  b 0xc2f0805c = false;
   b 0xc32997a1 = false;
   b 0xc355c8b9 = false;
   b 0xc36cf40a = false;
@@ -1166,6 +1166,7 @@
   b 0xc3baedba = false;
   b 0xc3d2e237 = false;
   b 0xc3e677e3 = false;
+  b 0xc4096410 = false;
   b 0xc40eb4d6 = false;
   b 0xc4310a1d = false;
   b 0xc4395bfe = false;

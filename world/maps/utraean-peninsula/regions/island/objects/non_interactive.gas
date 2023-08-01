@@ -24767,7 +24767,7 @@
 	[placement]
 	{
 	  q orientation = 0,-0.0436192,0,0.999048;
-	  p position = -3.15911,0,-0.86301,0x7d4783c5;
+	  p position = -1.24401,-7.15256e-007,-0.839806,0xc2f0805c;
 	}
 }
 [t:mushrooms_cav_05,n:0x07900eb9]
@@ -24778,8 +24778,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.207911,0,-0.978148;
-	  p position = -1.93707,0,-0.477211,0x7d4783c5;
+	  q orientation = 0,-0.207911,0,0.978148;
+	  p position = 0.389713,-7.15256e-007,0.0459595,0xc2f0805c;
 	}
 }
 [t:mushrooms_cav_05,n:0x07900eba]
@@ -24790,8 +24790,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.809017,0,-0.587785;
-	  p position = -3.88474,0,0.391697,0x7d4783c5;
+	  q orientation = 0,-0.809017,0,0.587785;
+	  p position = -1.55796,-7.15256e-007,0.914867,0xc2f0805c;
 	}
 }
 [t:mushrooms_cav_05,n:0x07900ebc]
@@ -24802,8 +24802,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.930417,0,-0.366501;
-	  p position = -3.21768,0,-1.279,0x7d4783c5;
+	  q orientation = 0,0.930418,0,-0.366501;
+	  p position = -0.8909,-7.15256e-007,-0.755829,0xc2f0805c;
 	}
 }
 [t:torch_swp_stick_01,n:0x07900b18]
