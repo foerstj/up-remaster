@@ -1,17 +1,17 @@
 [node_mesh_index]
 {
-	0x07d005c5 = t_xxx_dgn_flr_h2o_04x04-a;
-	0x07d005c6 = t_xxx_dgn_flr_h2o_08x04-a;
-	0x07d005ec = t_xxx_dgn_flr_04x04-a;
-	0x07d005ee = t_xxx_dgn_flr_08x04-a;
-	0x07d00634 = t_xxx_dgn_stair_h2o_ex-a;
-	0x07d0063c = t_xxx_dgn_stair_ex-a;
-	0x07d00654 = t_xxx_dgn_wal_h2o_ex-thick-a;
-	0x07d00655 = t_xxx_dgn_wal_h2o_ex-thin-a;
-	0x07d00656 = t_xxx_dgn_wal_h2o_ex-thin-pipe-a;
-	0x07d00657 = t_xxx_dgn_wal_h2o_ex-thin-pipe-h2o-a;
-	0x07d00666 = t_xxx_dgn_wal_ex-thick-a;
-	0x07d00667 = t_xxx_dgn_wal_ex-thin-a;
-	0x07d00668 = t_xxx_dgn_wal_ex-thin-pipe-a;
-	0x07d00669 = t_xxx_dgn_wal_ex-thin-pipe-h2o-a;
+	0x07d0057b = t_xxx_dgn_flr_h2o_04x04-a;
+	0x07d0057c = t_xxx_dgn_flr_h2o_08x04-a;
+	0x07d005a2 = t_xxx_dgn_flr_04x04-a;
+	0x07d005a4 = t_xxx_dgn_flr_08x04-a;
+	0x07d005ea = t_xxx_dgn_stair_h2o_ex-a;
+	0x07d005f2 = t_xxx_dgn_stair_ex-a;
+	0x07d0060a = t_xxx_dgn_wal_h2o_ex-thick-a;
+	0x07d0060b = t_xxx_dgn_wal_h2o_ex-thin-a;
+	0x07d0060c = t_xxx_dgn_wal_h2o_ex-thin-pipe-a;
+	0x07d0060d = t_xxx_dgn_wal_h2o_ex-thin-pipe-h2o-a;
+	0x07d0061c = t_xxx_dgn_wal_ex-thick-a;
+	0x07d0061d = t_xxx_dgn_wal_ex-thin-a;
+	0x07d0061e = t_xxx_dgn_wal_ex-thin-pipe-a;
+	0x07d0061f = t_xxx_dgn_wal_ex-thin-pipe-h2o-a;
 }
