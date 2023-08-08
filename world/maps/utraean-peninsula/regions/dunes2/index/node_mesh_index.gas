@@ -18,14 +18,14 @@
 	0x078001fa = t_dc01_sand-tx-dunes-08x04-f;
 	0x07800545 = t_xxx_cnr_24-ccav;
 	0x07800546 = t_xxx_cnr_24-cnvx;
-	0x078006ef = t_xxx_flr_04x04-v0;
-	0x078006f3 = t_xxx_flr_04x08-v0;
-	0x078006f4 = t_xxx_flr_08x08-v0;
-	0x078006f5 = t_xxx_flr_08x08-v1;
-	0x07800a7b = t_xxx_wal_24-diag-thick-l;
-	0x07800a7c = t_xxx_wal_24-diag-thick-r;
-	0x07800a7d = t_xxx_wal_24-diag-thin-l;
-	0x07800a7e = t_xxx_wal_24-diag-thin-r;
-	0x07800a7f = t_xxx_wal_24-thck;
-	0x07800a80 = t_xxx_wal_24-thin;
+	0x078006a5 = t_xxx_flr_04x04-v0;
+	0x078006a9 = t_xxx_flr_04x08-v0;
+	0x078006aa = t_xxx_flr_08x08-v0;
+	0x078006ab = t_xxx_flr_08x08-v1;
+	0x07800a31 = t_xxx_wal_24-diag-thick-l;
+	0x07800a32 = t_xxx_wal_24-diag-thick-r;
+	0x07800a33 = t_xxx_wal_24-diag-thin-l;
+	0x07800a34 = t_xxx_wal_24-diag-thin-r;
+	0x07800a35 = t_xxx_wal_24-thck;
+	0x07800a36 = t_xxx_wal_24-thin;
 }

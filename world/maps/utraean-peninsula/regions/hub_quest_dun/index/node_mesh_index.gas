@@ -80,15 +80,15 @@
 	0x082003c1 = t_dgn02_cap-04x08;
 	0x082003c2 = t_dgn02_cap-08x08;
 	0x082003cc = t_dgn02_cap_wall-a;
-	0x082005cb = t_xxx_dgn_flr_h2o_hole-04x04-a;
-	0x082005cc = t_xxx_dgn_flr_h2o_hole-08x04-a;
-	0x082005cd = t_xxx_dgn_flr_h2o_hole-cncv-a;
-	0x082005ce = t_xxx_dgn_flr_h2o_hole-cnvx-a;
-	0x082005ee = t_xxx_dgn_flr_08x04-a;
-	0x0820067f = t_xxx_dgn_cap-08x04-a;
-	0x08200680 = t_xxx_dgn_cap-08x08-a;
-	0x08200688 = t_xxx_dgn_cap-vertical-04x04-a;
-	0x0820068a = t_xxx_dgn_cap-vertical-04x08-a;
-	0x0820068b = t_xxx_dgn_cap-vertical-04x08-b;
-	0x08200940 = t_xxx_ruin_hub-elevator-dgn-a;
+	0x08200581 = t_xxx_dgn_flr_h2o_hole-04x04-a;
+	0x08200582 = t_xxx_dgn_flr_h2o_hole-08x04-a;
+	0x08200583 = t_xxx_dgn_flr_h2o_hole-cncv-a;
+	0x08200584 = t_xxx_dgn_flr_h2o_hole-cnvx-a;
+	0x082005a4 = t_xxx_dgn_flr_08x04-a;
+	0x08200635 = t_xxx_dgn_cap-08x04-a;
+	0x08200636 = t_xxx_dgn_cap-08x08-a;
+	0x0820063e = t_xxx_dgn_cap-vertical-04x04-a;
+	0x08200640 = t_xxx_dgn_cap-vertical-04x08-a;
+	0x08200641 = t_xxx_dgn_cap-vertical-04x08-b;
+	0x082008f6 = t_xxx_ruin_hub-elevator-dgn-a;
 }

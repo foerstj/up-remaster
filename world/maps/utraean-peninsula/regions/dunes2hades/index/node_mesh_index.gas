@@ -1,12 +1,12 @@
 [node_mesh_index]
 {
-	0x07e005b9 = t_xxx_dgn_cnr_ex-ccav-a;
-	0x07e005bd = t_xxx_dgn_cnr_ex-cnvx-a;
-	0x07e005ec = t_xxx_dgn_flr_04x04-a;
-	0x07e005ee = t_xxx_dgn_flr_08x04-a;
-	0x07e005f1 = t_xxx_dgn_flr_ele-big-top-04x04-a;
-	0x07e0063c = t_xxx_dgn_stair_ex-a;
-	0x07e0065d = t_xxx_dgn_wal_ex-alcove-b;
-	0x07e00662 = t_xxx_dgn_wal_ex-pillar-a;
-	0x07e00663 = t_xxx_dgn_wal_ex-pillar-b;
+	0x07e0056f = t_xxx_dgn_cnr_ex-ccav-a;
+	0x07e00573 = t_xxx_dgn_cnr_ex-cnvx-a;
+	0x07e005a2 = t_xxx_dgn_flr_04x04-a;
+	0x07e005a4 = t_xxx_dgn_flr_08x04-a;
+	0x07e005a7 = t_xxx_dgn_flr_ele-big-top-04x04-a;
+	0x07e005f2 = t_xxx_dgn_stair_ex-a;
+	0x07e00613 = t_xxx_dgn_wal_ex-alcove-b;
+	0x07e00618 = t_xxx_dgn_wal_ex-pillar-a;
+	0x07e00619 = t_xxx_dgn_wal_ex-pillar-b;
 }
