@@ -5052,10 +5052,6 @@
 }
 [t:tree_grs_pine_03,n:0x01c004cb]
 {
-	[aspect]
-	{
-	  f scale_multiplier = 0.66;
-	}
 	[placement]
 	{
 	  q orientation = 0,1,0,0;
