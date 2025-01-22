@@ -1770,36 +1770,6 @@
 	  p position = 0.0553741,-0.95,0.482721,0x387a8ad2;
 	}
 }
-[t:trigger_generic,n:0x04d00752]
-{
-	[common]
-	{
-		dev_instance_text = "QUEST";
-		[instance_triggers]
-		{
-			[*]
-			{
-				action* = change_quest_state("quest_red_tree","completed",0);
-			  b can_self_destruct = true;
-				condition* = party_member_within_bounding_box(2.000000,1.000000,2.000000,"on_first_enter"), doc("[*one-shot check (trigger is one-shot)*]");
-			  f delay = 0.000000;
-			  b flip_flop = false;
-			  b multi_player = true;
-			  b no_trig_bits = false;
-				occupants_group = ;
-			  f reset_duration = 0.000000;
-			  b single_player = true;
-			  b single_shot = true;
-			  b start_active = true;
-			}
-		}
-	}
-	[placement]
-	{
-	  q orientation = 0,1,0,0;
-	  p position = -0.538567,-0.850004,-0.431784,0x8b69eb6a;
-	}
-}
 [t:trigger_change_mood_box,n:0x04d00736]
 {
 	[common]
