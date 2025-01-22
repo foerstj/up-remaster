@@ -18,7 +18,7 @@ echo %mode%
 pushd %gaspy%
 setlocal EnableDelayedExpansion
 if not "%mode%"=="light" (
-  venv\Scripts\python -m build.pre_build_checks %map% --check dupe_node_ids empty_emitters lore moods tips region_ids quests
+  venv\Scripts\python -m build.pre_build_checks %map% --check dupe_node_ids empty_emitters lore moods tips region_ids quests conversations
   if !errorlevel! neq 0 pause
 )
 endlocal
