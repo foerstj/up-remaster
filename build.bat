@@ -14,6 +14,16 @@ set tc=%TankCreator%
 set mode=%1
 echo %mode%
 
+:: pre-build checks
+pushd %gaspy%
+setlocal EnableDelayedExpansion
+if not "%mode%"=="light" (
+  venv\Scripts\python -m build.pre_build_checks %map% --check dupe_node_ids empty_emitters lore moods tips region_ids
+  if !errorlevel! neq 0 pause
+)
+endlocal
+popd
+
 :: Compile map file
 rmdir /S /Q "%tmp%\Bits"
 robocopy "%bits%\world\maps\%map%" "%tmp%\Bits\world\maps\%map%" /E
