@@ -5,4 +5,4 @@ set ds=%DungeonSiege%
 
 :: Cleanup resources so as not to confuse Siege Editor
 :: map
-del "%ds%\DSLOA\%map_cs%.dsmap"
+del "%ds%\Maps\%map_cs%.dsmap"
