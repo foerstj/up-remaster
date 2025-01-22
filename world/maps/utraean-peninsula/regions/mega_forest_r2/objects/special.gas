@@ -2996,6 +2996,35 @@
 	  p position = -0.0123901,-1.55,-5.53705,0x897c15b3;
 	}
 }
+[t:trigger_generic,n:0x06501e0b]
+{
+	[common]
+	{
+		dev_instance_text = "PWL";
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = set_player_world_location("great_northern_forest");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(8.000000,2.000000,8.000000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[placement]
+	{
+	  p position = -0.476364,-1.85,-2.60025,0x897c15b3;
+	}
+}
 [t:use_point,n:0x06502291]
 {
 	[placement]
