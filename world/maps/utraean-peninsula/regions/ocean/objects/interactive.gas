@@ -50,7 +50,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.984808,0,-0.173648;
-	  p position = 1.40901,-3.6125,-3.3431,0xfb5c9c7f;
+	  p position = 1.40901,-3.7,-3.3431,0xfb5c9c7f;
 		use_point_scids = 0x04d0059c, 0x04d0059b;
 	}
 }
@@ -131,7 +131,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.984808,0,-0.173648;
-	  p position = 0.0851412,-3.65,-2.9319,0x6db5a4cb;
+	  p position = 0.0851412,-3.75,-2.9319,0x6db5a4cb;
 		use_point_scids = 0x04d00598, 0x04d0059a;
 	}
 }

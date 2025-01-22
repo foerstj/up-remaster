@@ -19,13 +19,17 @@ This map is re-buildable and editable. I opened & saved every region in Siege Ed
 ## What I did (revisit)
 
 The "revisited" map variant is based on the remaster, with these additional changes:
+- Renamed map ingame to *Utraean Peninsula (revisited)*
 - Fixed a tree and a barrel floating in mid-air, add a missing sign post, put mugs on tables in Elddim tavern
 - Brushed up plants that had default scaling / orientation
 - Removed cam-blocking on some terrain nodes like rope bridges for smoother camera movement
-- Fixed a few terrain texture borders (i.e. Eastern Island cave, Mausoleum entrance)
+- Fixed a few terrain texture borders (i.e. Eastern Island cave, Mausoleum entrance, Elddim exit)
 - Polished mood & PWL switches at Pit of Despair entrance & exit
 - Fixed fading bugs that resulted in invisible Mausoleum or Mesa Desert
-- Renamed map ingame to *Utraean Peninsula (revisited)*
+- Added missing PWL switch when coming up Loola's Lift
+- Fixed North vector in the Goblin Warrens
+- Cleaned up unused references to non-existent conversations & quests
+- Fixed shop doors in Meren that you could walk through
 
 ## What I did (single-player)
 

@@ -274,7 +274,6 @@
 		[conversations]
 		{
 			* = conversation_guard_1;
-			* = conversation_guard_1_high;
 			* = conversation_guard_1_red;
 			* = zconversation_directions;
 		}
@@ -305,7 +304,6 @@
 		[conversations]
 		{
 			* = conversation_guard_2;
-			* = conversation_guard_2_high;
 			* = conversation_guard_2_red;
 			* = zconversation_directions;
 		}
@@ -335,7 +333,6 @@
 		[conversations]
 		{
 			* = conversation_guard_5;
-			* = conversation_guard_5_high;
 			* = conversation_guard_5_red;
 			* = zconversation_directions;
 		}

@@ -355,7 +355,7 @@
 	}
 	[t:start_group,n:grescal]
 	{
-	  b default = true;
+	  b default = false;
 		description = "Grescal, Remote Oasis in the Dunes";
 	  b dev_only = false;
 	  i id = 8;
