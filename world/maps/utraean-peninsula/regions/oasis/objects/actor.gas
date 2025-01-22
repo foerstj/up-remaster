@@ -181,7 +181,6 @@
 		[conversations]
 		{
 			* = conversation_kylira;
-			* = conversation_kylira_all7;
 			* = conversation_kylira_all_complete;
 			* = conversation_kylira_complete;
 			* = conversation_kylira_goto;

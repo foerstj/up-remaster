@@ -763,9 +763,9 @@
 	{
 		[conversations]
 		{
-			* = conversation_mule_merchant_meren_first;
-			* = conversation_mule_merchant_meren_2_packmules;
 			* = conversation_mule_merchant_meren_1_packmules;
+			* = conversation_mule_merchant_meren_2_packmules;
+			* = conversation_mule_merchant_meren_first;
 			* = conversation_mule_merchant_meren_no_packmules;
 		}
 	}
