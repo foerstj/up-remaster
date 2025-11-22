@@ -581,6 +581,40 @@
 	  p position = -1.66357,0,2.02332,0xa0465981;
 	}
 }
+[t:up_lord_bolingar,n:0x072001d0]
+{
+	[aspect]
+	{
+	  f max_life = 980;
+	  f max_mana = 176;
+	}
+	[common]
+	{
+	  b is_multi_player = false;
+	}
+	[conversation]
+	{
+		[conversations]
+		{
+			* = conversation_lord_bolingar_accept_have_money;
+			* = conversation_lord_bolingar_accept_no_money;
+			* = conversation_lord_bolingar_disband;
+			* = conversation_lord_bolingar_disband_rejoin;
+			* = conversation_lord_bolingar_join;
+			* = conversation_lord_bolingar_reject;
+			* = conversation_lord_bolingar_rejoin;
+		}
+	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\utraean-peninsula\job_talk_companion.skrit?namespace=lord_bolingar&oid=0x72001d0;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.990123,0,0.140203;
+	  p position = 3.07807,-0.935338,0.175091,0x0f3d6011;
+	}
+}
 [t:mp_guard_05,n:0x07200669]
 {
 	[aspect]
@@ -991,39 +1025,5 @@
 	{
 	  q orientation = 0,-0.0348999,0,0.99939;
 	  p position = 7.80494,-2.65,1.34921,0x2dbbce58;
-	}
-}
-[t:up_lord_bolingar,n:0x072001d0]
-{
-	[aspect]
-	{
-	  f max_life = 980;
-	  f max_mana = 176;
-	}
-	[common]
-	{
-	  b is_multi_player = false;
-    }
-	[conversation]
-	{
-		[conversations]
-		{
-			* = conversation_lord_bolingar_join;
-			* = conversation_lord_bolingar_accept_have_money;
-			* = conversation_lord_bolingar_accept_no_money;
-			* = conversation_lord_bolingar_reject;
-			* = conversation_lord_bolingar_disband;
-			* = conversation_lord_bolingar_rejoin;
-			* = conversation_lord_bolingar_disband_rejoin;
-		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\utraean-peninsula\job_talk_companion.skrit?namespace=lord_bolingar&oid=0x72001d0;
-	}
-	[placement]
-	{
-	  q orientation = 0,-0.990123,0,0.140203;
-	  p position = 3.07807,-0.935338,0.175091,0x0f3d6011;
 	}
 }
