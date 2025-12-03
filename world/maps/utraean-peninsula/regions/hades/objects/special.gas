@@ -363,7 +363,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.0111121,-0.0556188,-0.129913,0x7cabf404;
+	  p position = 0,0,0,0x7cabf404;
 	}
 }
 [t:trigger_mana_shrine,n:0x07b001bf]
@@ -594,7 +594,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.0346298,-0.471631,0.0103378,0xb884386b;
+	  p position = 0,-0.5,0,0xb884386b;
 	}
 }
 [t:use_point,n:0x07b001c9]

@@ -104,8 +104,7 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,-0.707107,0,-0.707107;
-	  p position = 0.0455227,-0.45442,-0.0166168,0xe9d057d0;
+	  p position = 0,-0.5,0,0xe9d057d0;
 	}
 }
 [t:trigger_health_shrine,n:0x01700bb4]
@@ -313,7 +312,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.0420685,-0.0187221,-0.111526,0xcfcd82a8;
+	  p position = 0,0,0,0xcfcd82a8;
 	}
 }
 [t:trigger_mana_shrine,n:0x01700bb7]

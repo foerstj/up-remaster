@@ -696,8 +696,7 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.870357,0,0.492422;
-	  p position = 0.00662994,-0.0458016,-0.0993652,0x939064ef;
+	  p position = 0,0,0,0x939064ef;
 	}
 }
 [t:trigger_fade_nodes_box,n:0x077000c6]

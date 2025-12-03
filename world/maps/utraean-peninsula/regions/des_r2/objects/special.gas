@@ -68,8 +68,7 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,-0.0174514,0,0.999848;
-	  p position = 0.0417175,-0.0258942,-0.072545,0x87924744;
+	  p position = 0,0,0,0x87924744;
 	}
 }
 [t:trigger_mana_shrine,n:0x05600285]
