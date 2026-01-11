@@ -20,7 +20,7 @@ This map is re-buildable and editable. I opened & saved every region in Siege Ed
 
 The "revisited" map variant is based on the remaster, with these additional changes:
 - Renamed map ingame to *Utraean Peninsula (revisited)*
-- Fixed a tree and a barrel floating in mid-air, add a missing sign post, put mugs on tables in Elddim tavern
+- Fixed a tree and a barrel floating in mid-air, add a missing sign post, put mugs on tables in Elddim tavern, cleaned up a lamp inside a wall in the mega towers
 - Brushed up plants that had default scaling / orientation
 - Removed cam-blocking on some terrain nodes like rope bridges for smoother camera movement
 - Fixed a few terrain texture borders (i.e. Eastern Island cave, Mausoleum entrance, Elddim exit)
@@ -30,6 +30,8 @@ The "revisited" map variant is based on the remaster, with these additional chan
 - Fixed North vector in the Goblin Warrens
 - Cleaned up unused references to non-existent conversations & quests
 - Fixed shop doors in Meren that you could walk through
+- Fixed pieces of rivers flowing in the wrong direction
+- Fixed entrance direction into Ancient Temple (compass switch)
 
 ## How to build
 
