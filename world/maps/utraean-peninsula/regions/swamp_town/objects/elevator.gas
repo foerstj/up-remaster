@@ -86,8 +86,7 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,1,0,0;
-	  p position = 0.174604,5,0.0537872,0xab816774;
+	  p position = 0,5,0,0xab816774;
 	}
 }
 [t:elevator_instant_4s_1c,n:0x04e005b4]
@@ -123,7 +122,6 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,-0.707107,0,0.707107;
 	  p position = 0,5,0,0x833e8c9e;
 	}
 }
