@@ -12494,10 +12494,6 @@
 }
 [t:bush_ice_rhod_01,n:0x05900700]
 {
-	[aspect]
-	{
-	  f scale_multiplier = 1;
-	}
 	[placement]
 	{
 	  q orientation = 0,0.140017,0,0.990149;

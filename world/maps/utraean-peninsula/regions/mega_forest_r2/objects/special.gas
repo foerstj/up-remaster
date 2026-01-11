@@ -3355,7 +3355,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.00428772,-0.00583076,-0.0430069,0x89482236;
+	  p position = 0,0,0,0x89482236;
 	}
 }
 [t:trigger_change_mood_box,n:0x06501bdb]
@@ -3560,7 +3560,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.011097,-0.524632,-0.152538,0xa0f34ec9;
+	  p position = 0,-0.5,0,0xa0f34ec9;
 	}
 }
 [t:trigger_change_mood_box,n:0x06501bd7]

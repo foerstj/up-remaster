@@ -1661,7 +1661,7 @@
 	}
 	[placement]
 	{
-	  p position = -0.168289,-0.483817,-0.0690002,0x87d40866;
+	  p position = 0,-0.5,0,0x87d40866;
 	}
 }
 [t:trigger_change_mood_box,n:0x07600065]

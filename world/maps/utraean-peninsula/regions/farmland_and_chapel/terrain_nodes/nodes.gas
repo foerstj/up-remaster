@@ -21654,7 +21654,7 @@
 	}
 	[t:snode,n:0x5708384a]
 	{
-	  b bounds_camera = true;
+	  b bounds_camera = false;
 	  b camera_fade = false;
 	  x guid = 0x5708384A;
 	  x mesh_guid = 0x01C008FB;
