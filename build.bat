@@ -15,14 +15,18 @@ set mode=%1
 echo %mode%
 
 :: pre-build checks
-pushd %gaspy%
 setlocal EnableDelayedExpansion
 if not "%mode%"=="light" (
-  venv\Scripts\python -m build.pre_build_checks %map% --check dupe_node_ids empty_emitters lore moods tips region_ids quests conversations
+  pushd %gaspy%
+  set checks=standard
+  if "%mode%"=="release" (
+    set checks=all
+  )
+  venv\Scripts\python -m build.pre_build_checks %map% --check !checks! --exclude rivers --exclude player_world_locations --bits "%bits%"
   if !errorlevel! neq 0 pause
+  popd
 )
 endlocal
-popd
 
 :: Compile map file
 rmdir /S /Q "%tmp%\Bits"
