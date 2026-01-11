@@ -3,8 +3,8 @@
     // Base
     [0x0000]
     {
-        from = "Utraean Peninsula (single-player)";
-        to = "Halbinsel Uträa (Einzelspieler)";
+        from = "Utraean Peninsula (revisited / single-player)";
+        to = "Halbinsel Uträa (überarbeitet / Einzelspieler)";
     }
     [0x0000]
     {
