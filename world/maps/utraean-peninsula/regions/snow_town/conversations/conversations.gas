@@ -4,6 +4,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700743;
+		sample = s_v_xp_snowtown_billib_1;
 		screen_text = "Cole's a bit of a daredevil, but the most competent lad I know. If I know Cole, he's too busy entertaining all the lasses to remember to write to his sister back in Fallraen.";
 	}
 }
@@ -13,6 +14,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700743;
+		sample = s_v_xp_snowtown_billib_2;
 		screen_text = "I've been living in Fallraen going on thirty years, and I've never seen anything like this!";
 	}
 }
@@ -24,6 +26,7 @@
 		button_2_value = d_0x027007d0;
 		choice = more;
 		order = 0;
+		sample = s_v_xp_snowtown_flessan_1;
 		screen_text = "Oh, hail, stranger. If you need magic stuff, talk to Killean. I've got too much to do now that Priest Lagreth's gone. I'm of mind to send out a search party for him.";
 	}
 	[text*]
@@ -32,12 +35,14 @@
 		button_1_text = "Directions";
 		button_1_value = d_0x027007d0;
 		order = 1;
+		sample = s_v_xp_snowtown_flessan_2;
 		screen_text = "Well... You think you can help, do you? I don't know... How's this? Go talk to Utraean Priestess Kelti over in Elddim. She's always looking for trustworthy individuals to assist the Society. I might have a job for you when you're finished.";
 	}
 	[text*]
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x027007d0;
+		sample = s_v_xp_snowtown_flessan_3;
 		screen_text = "Look, I'm not allowed to hire anyone without Priestess Kelti's approval. If she likes you, she'll let me know, and then we can talk. Okay?";
 	}
 }
@@ -47,6 +52,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x027007d0;
+		sample = s_v_xp_snowtown_flessan_4;
 		screen_text = "You have done well, friend! Mayhaps you will have a career in the Society someday, eh?";
 	}
 }
@@ -58,6 +64,7 @@
 		button_2_value = d_0x027007d0;
 		choice = more;
 		order = 0;
+		sample = s_v_xp_snowtown_flessan_5;
 		screen_text = "You have no idea how glad I am to see you! Terrible creatures have been coming out of the woods at night, and I havn't been able to sleep at all knowing that Priest Lagreth is out there somewhere. Oh dear, you say you came across him dead? Ack! But you do have the Snowflake Stone, yes? Oh, well, then all is not lost, at least. Did you by chance resurrect the poor man?";
 	}
 	[text*]
@@ -66,6 +73,7 @@
 		button_1_text = "Directions";
 		button_1_value = d_0x027007d0;
 		complete_quest* = quest_fallraen;
+		sample = s_v_xp_snowtown_flessan_6;
 		screen_text = "You are much braver than I, friend. The entire town of Fallraen is indebted to you. I will ask the Guard Captain to send a rescue party out for Priest Lagreth, now that we know where he is. While I have not the means to reward you appropriately, please accept this small token of appreciation. I will also send word to the town of Meren, so they will treat you with the utmost respect.";
 	}
 }
@@ -76,6 +84,7 @@
 		button_1_text = "Directions";
 		button_1_value = d_0x027007d0;
 		quest_dialog = true;
+		sample = s_v_xp_snowtown_flessan_7;
 		screen_text = "Utraean Priest Tas in Meren will be waiting for your arrival. He doesn't have much else to do now that the sun hasn't come out for the last three months.";
 	}
 }
@@ -86,6 +95,7 @@
 		button_1_text = "Directions";
 		button_1_value = d_0x027007d0;
 		quest_dialog = true;
+		sample = s_v_xp_snowtown_flessan_8;
 		screen_text = "Priest Lagreth set off to the north. I think he was trying to get to Lang through the Glacial Caverns for some reason. He just glowered at me when I asked him where he was going, and he muttered something about the Lang Mosquito Stone. I don't know why he didn't just go through the Basilicus. He's one of the very few of us marked with fire.";
 	}
 }
@@ -95,6 +105,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x027007d0;
+		sample = s_v_xp_snowtown_flessan_9;
 		screen_text = "The Legion are sure taking their time returning Priest Lagreth to us! I don't know what this red sky means, but it is surely not good!";
 	}
 }
@@ -108,6 +119,7 @@
 		complete_quest* = goto_fallraen;
 		complete_quest* = goto_fallraen_b;
 		order = 0;
+		sample = s_v_xp_snowtown_flessan_10;
 		screen_text = "You are the one Priestess Kelti sent? Oh, thank the stars! It's been a terrible month, let me tell you!";
 	}
 	[text*]
@@ -116,6 +128,7 @@
 		button_2_value = d_0x027007d0;
 		choice = more;
 		order = 1;
+		sample = s_v_xp_snowtown_flessan_11;
 		screen_text = "You see, I'm just an apprentice to the Utraean Society. I'd been mostly doing research and studying the few remaining Utraean artifacts we have, when Priest Lagreth heard of some unusual activity in the Frozen Caverns to the north of here. He left a month ago to investigate, and hasn't been heard from since!";
 	}
 	[text*]
@@ -125,6 +138,7 @@
 		button_1_text = "Directions";
 		button_1_value = d_0x027007d0;
 		order = 2;
+		sample = s_v_xp_snowtown_flessan_12;
 		screen_text = "Worst of all, he took the Snowflake Stone with him. The call for the Circle of Stones came just two days after Priest Lagreth left, and I've been beside myself trying to figure out what to do. The Townstones MUST be assembled -- how else will we reopen the road to Crystwind? Priest Lagreth says there's a vast store of Utraean magics and armaments hidden in a magically sealed temple. When the Townstones are united, we'll finally have the supplies to protect ourselves once and for all. If you could go after Priest Lagreth and find Fallraen's Snowflake Stone, we'd be that much closer to safety!";
 	}
 }
@@ -138,6 +152,7 @@
 		complete_quest* = goto_fallraen;
 		complete_quest* = goto_fallraen_b;
 		order = 0;
+		sample = s_v_xp_snowtown_flessan_10;
 		screen_text = "You are the one Priestess Kelti sent? Oh, thank the stars! It's been a terrible month, let me tell you!";
 	}
 	[text*]
@@ -146,6 +161,7 @@
 		button_2_value = d_0x027007d0;
 		choice = more;
 		order = 1;
+		sample = s_v_xp_snowtown_flessan_13;
 		screen_text = "Wait, did you say you have the Fallraen Townstone? Right this minute? Oh, you have no idea how thrilled I am! The call for the Circle of Stones came just two days after Priest Lagreth left, and I've been beside myself trying to figure out what to do. The Townstones MUST be assembled -- how else will we reopen the road to Crystwind? Priest Lagreth says there's a vast store of Utraean magics and armaments hidden in a magically sealed temple. When all the Townstones are united, we'll finally have the supplies to protect ourselves once and for all. Thanks to you, Fallraen will have done its part!";
 	}
 	[text*]
@@ -154,6 +170,7 @@
 		activate_quest* = quest_townstones;
 		button_1_text = "Directions";
 		button_1_value = d_0x027007d0;
+		sample = s_v_xp_snowtown_flessan_14;
 		screen_text = "And you found Priest Lagreth as well? Dead, you say? Oh dear. I'll have the Guard Captain send out a rescue party for him. While we do not have much to give, please accept this small token of appreciation. It's the least we can do. Oh, and I'll send word to the Priests in Meren to be on the lookout for you.";
 	}
 }
@@ -162,6 +179,7 @@
 	[text*]
 	{
 		choice = buy_packmule;
+		sample = s_v_xp_snowtown_merchant_fallraen_1;
 		screen_text = "Here to buy a mule, are you? You want a nice docile beastie you can leave out in the rain, pack a house-worth of stuff onto its back, and that doesn't try to eat you as soon as it gets hungry? Hah! It's no wonder we went out of the sodding Furok business! Do me a favor: take one of these worthless mules I got in trade for its equal in gold, and I'll be one step closer to getting out of this blighted peninsula for good.";
 	  f scroll_rate = 10.000000;
 	}
@@ -171,6 +189,7 @@
 	[text*]
 	{
 		choice = buy_packmule;
+		sample = s_v_xp_snowtown_merchant_fallraen_2;
 		screen_text = "Oh, back to buy one of these cretinous mules? Fine, fine. Take your pick. I don't care which one, just as long as you've got the gold I need.";
 	  f scroll_rate = 10.000000;
 	}
@@ -179,6 +198,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_snowtown_merchant_fallraen_3;
 		screen_text = "If you're looking for another mule, you're out of luck. I've sold the last of them, and the Shivering Furok Corral is now history. Good riddance!";
 	  f scroll_rate = 10.000000;
 	}
@@ -189,6 +209,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700722;
+		sample = s_v_xp_snowtown_captain_fallraen_1;
 		screen_text = "Good day to you, Stranger. You might want to stop by the tavern for an ale to warm you up on this frosty day. Liorne's got some fine, fur-lined boots for sale over at the Fire and Ice Forge if you're needing supplies. I'm afraid there's not much to be had in terms of quality weapons. With the road to Crystwind blocked, we havn't received any ore in months.";
 	}
 }
@@ -198,6 +219,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700722;
+		sample = s_v_xp_snowtown_captain_fallraen_2;
 		screen_text = "That old fool Priest Lagreth is behind this foul weather, mark my words. Well, he can stay dead out there in the stink for awhile longer if I have anything to say about it.";
 	}
 }
@@ -207,6 +229,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700780;
+		sample = s_v_xp_snowtown_guard_gate_n_1;
 		screen_text = "Take care, traveler. May the hand of Azunai guide you well.";
 	}
 }
@@ -216,6 +239,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700780;
+		sample = s_v_xp_snowtown_guard_gate_n_2;
 		screen_text = "Pish, you don't need me to tell you how adept your survival skills are. It's clear you're more than adequately prepared for anything that's around these parts.";
 	}
 }
@@ -225,6 +249,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700780;
+		sample = s_v_xp_snowtown_guard_gate_n_3;
 		screen_text = "I hate to be the bearer of ill news, but I advise you not to travel outside Fallraen's walls. I'm not jesting when I say you'll end up regretting it without some hefty training under your belt.";
 	}
 }
@@ -234,6 +259,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700780;
+		sample = s_v_xp_snowtown_guard_gate_n_4;
 		screen_text = "Hear me well! The air is burning for good reason. Azunai has returned to smite us for our lack of faith! We are all doomed!";
 	}
 }
@@ -243,6 +269,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700781;
+		sample = s_v_xp_snowtown_guard_tower_s_1;
 		screen_text = "Hail! The high snows have kept us from clearing the woods of vermin, so take extra care when venturing outside the gates. There've been more than a few mishaps already. ";
 	}
 }
@@ -252,6 +279,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700781;
+		sample = s_v_xp_snowtown_guard_tower_s_2;
 		screen_text = "Pish, you don't need me to tell you how adept your survival skills are. It's clear you're more than adequately prepared for anything that's around these parts.";
 	}
 }
@@ -261,6 +289,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700781;
+		sample = s_v_xp_snowtown_guard_tower_s_3;
 		screen_text = "I hate to be the bearer of ill news, but I advise you not to travel outside Fallraen's walls. I'm not jesting when I say you'll end up regretting it without some hefty training under your belt.";
 	}
 }
@@ -270,6 +299,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700781;
+		sample = s_v_xp_snowtown_guard_tower_s_4;
 		screen_text = "I'd expect this sort of magick weather someplace like Hiroth, but never in Fallraen! Even with Killean's shop here, there's never been anything more unusual than snow.";
 	}
 }
@@ -280,6 +310,7 @@
 		button_1_text = "Directions";
 		button_1_value = d_0x02700723;
 		order = 0;
+		sample = s_v_xp_snowtown_guard_hub_1;
 		screen_text = "Hail and well met! Fallraen is as safe as they get, but if you venture beyond the walls, there's no telling what might come to pass. The road to Elddim is closed, Meren lies distant to the northeast, and all that's up north is a cave full of vermin. Lovely day for a walk around the magicatorium, eh?";
 	}
 }
@@ -289,6 +320,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700723;
+		sample = s_v_xp_snowtown_guard_hub_2;
 		screen_text = "Gah! Everyone's feeling queasy ever since the sky turned red. If I didn't have guard duty, I'd be sitting cozy by the fire in the Golden Boar with me nose in a tall mug o' their best ale. ";
 	}
 }
@@ -298,6 +330,7 @@
 	{
 		activate_quest* = quest_fallraen_barracks;
 		quest_dialog = true;
+		sample = s_v_xp_snowtown_guard_id_1;
 		screen_text = "It's a bloody nightmare out here, what with the heavy snow making the klaw bolder than I've ever seen them. They've infested the old barracks just to the south, forcing the Legion to bunk in town instead. You can be sure the citizens of Fallraen are none too happy about matters. Mayhaps you'd be willing to give us a hand cleansing the barracks before heading into town?";
 	}
 }
@@ -305,6 +338,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_snowtown_guard_id_2;
 		screen_text = "The town of Fallraen and the Legion owe you thanks! Please accept this reward for a job well done. You'll be wanting to head into town to lighten your load after all that fighting, I'm sure. Fallraen is just to the north, past the gates.";
 	}
 }
@@ -312,6 +346,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_snowtown_guard_id_3;
 		screen_text = "Such a stench in the air, I do think I'm going to be sick...";
 	}
 }
@@ -321,6 +356,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700732;
+		sample = s_v_xp_snowtown_guard_tavern_1;
 		screen_text = "Whatever you do, don't order the mutton. I think I'm going to be sick...";
 	}
 }
@@ -330,6 +366,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700732;
+		sample = s_v_xp_snowtown_guard_tavern_2;
 		screen_text = "It's a great day for an ale, dontcha think? Make that a whole barrel of the stuff... *hic*";
 	}
 }
@@ -339,6 +376,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700720;
+		sample = s_v_xp_snowtown_guard_tower_s_5;
 		screen_text = "Hey, you! Military personnel onl... Oh, forgive me! I didn't realize you're a visitor. I guess you can stay if you keep still. I saw a snow boar rooting around at the edge of the woods not too long ago. If you keep very still, maybe it'll return and we'll all have pork for supper!";
 	}
 }
@@ -348,6 +386,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700720;
+		sample = s_v_xp_snowtown_guard_tower_s_6;
 		screen_text = "I hate red.";
 	}
 }
@@ -357,6 +396,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700721;
+		sample = s_v_xp_snowtown_guard_tower_s_7;
 		screen_text = "Oh, it's you, Stranger. There were rumors a brave adventurer was in town. Well, not much is happening up here today. There were rumors of a Klaw sighting in the woods to the north and south of here, but I havn't seen anything unusual yet.";
 	}
 }
@@ -366,6 +406,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700721;
+		sample = s_v_xp_snowtown_guard_tower_s_8;
 		screen_text = "At least this foul weather seems to be keeping the beasties indoors as well. Hasn't been this quiet in months!";
 	}
 }
@@ -375,6 +416,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x0270071f;
+		sample = s_v_xp_snowtown_guard_tower_s_9;
 		screen_text = "You shouldn't be up here, you know. What if there's a massive Furok attack while I'm chatting here with you, and I'm too distracted to sound the alarm in time? There's a cave full of the smelly beasts due north of the gates, you know.";
 	}
 }
@@ -384,6 +426,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x0270071f;
+		sample = s_v_xp_snowtown_guard_tower_s_10;
 		screen_text = "And I thought the smell of Furok was nauseating. That's nothing compared to this! Oh, my stomach...";
 	}
 }
@@ -395,6 +438,7 @@
 		button_1_value = d_0x027002be;
 		choice = shop;
 		order = 0;
+		sample = s_v_xp_snowtown_killean_1;
 		screen_text = "Now, who would you be? No, wait, let me guess... I've got it! You're a demon in disguise from the northern reaches, about to turn me into a pillar of ice, right? Hahahaha! No? Well, you can't blame a man for having some fun in times like this. Might as well shop for a bit then, eh?";
 	}
 	[text*]
@@ -402,6 +446,7 @@
 		button_1_text = "Directions";
 		button_1_value = d_0x027002be;
 		choice = shop;
+		sample = s_v_xp_snowtown_killean_2;	
 		screen_text = "You understand I didn't mean anything by that demon joke, right? But if you do want to get to know some demons, there's a cave full of them up north. Or, if you've got the skill, I'll sell you the secret on how to conjure your own.";
 	}
 }
@@ -412,6 +457,7 @@
 		button_1_text = "Directions";
 		button_1_value = d_0x027002be;
 		choice = shop;
+		sample = s_v_xp_snowtown_killean_3;	
 		screen_text = "It's a far cry from summer breezes, but this red fog mixed with snow is something different at least!";
 	}
 }
@@ -421,6 +467,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700718;
+		sample = s_v_xp_snowtown_kymian_1;
 		screen_text = "Is that armor real? It looks flimsy. Do you have any scars? How many monsters have you killed? Why are you looking at me like that?";
 	}
 }
@@ -430,6 +477,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700718;
+		sample = s_v_xp_snowtown_kymian_2;
 		screen_text = "There was never anything this exciting in Elddim!";
 	}
 }
@@ -439,6 +487,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x027005f0;
+		sample = s_v_xp_snowtown_lars_1;
 		screen_text = "My father and I took a trip through the Crystal Caverns last spring. It'll take you awhile to get there, but it's well worth the journey! The creatures there aren't exactly friendly, but they sure have pretty skins.";
 	}
 }
@@ -448,6 +497,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x027005f0;
+		sample = s_v_xp_snowtown_lars_2;
 		screen_text = "D'ya think this scourge will last long? Seems everyone's feeling worse by the hour with this stink in the air.";
 	}
 }
@@ -457,6 +507,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x0270072c;
+		sample = s_v_xp_snowtown_laup_1;
 		screen_text = "The Glacial Caverns won't be any trouble to you, I'd bet. But watch out for the Ancient Temple in the Mount Utrae Forest past the caverns -- I hear it's haunted!";
 	}
 }
@@ -466,6 +517,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x0270072c;
+		sample = s_v_xp_snowtown_laup_2;
 		screen_text = "Blasted weather.";
 	}
 }
@@ -477,6 +529,7 @@
 		button_1_value = d_0x027002c0;
 		choice = shop;
 		order = 0;
+		sample = s_v_xp_snowtown_liorne_1;
 		screen_text = "Hail and welcome to the Fire and Ice forge! When it's this cold out, you'll want a nice, fur trimmed breastplate, and I make the best around!";
 	}
 	[text*]
@@ -485,6 +538,7 @@
 		button_1_value = d_0x027002c0;
 		choice = shop;
 		order = 1;
+		sample = s_v_xp_snowtown_liorne_2;
 		screen_text = "Yes, I know my goods are pricey, but materials are dear what with the banditry these days. Can't hardly get anything through from Crystwind by the forest road, and strange things have been emerging from the Glacial Caverns to the North.";
 	}
 	[text*]
@@ -492,6 +546,7 @@
 		button_1_text = "Directions";
 		button_1_value = d_0x027002c0;
 		choice = shop;
+		sample = s_v_xp_snowtown_liorne_3;
 		screen_text = "Goods are still here, the snow still is falling, you might as well spend your gold since there's not much else calling!";
 	}
 }
@@ -502,6 +557,7 @@
 		button_1_text = "Directions";
 		button_1_value = d_0x027002c0;
 		choice = shop;
+		sample = s_v_xp_snowtown_liorne_4;
 		screen_text = "It smells funny, but at least it's warmer!";
 	}
 }
@@ -511,6 +567,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x0270073f;
+		sample = s_v_xp_snowtown_maelle_1;
 		screen_text = "Ack, can't you see this room is taken? The rudeness of some people! Hilmer, deal with them, please!";
 	}
 }
@@ -520,6 +577,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x0270073f;
+		sample = s_v_xp_snowtown_maelle_2;
 		screen_text = "Can't a lass go anywhere in this dratted excuse of a town to get a good night's sleep?";
 	}
 }
@@ -529,6 +587,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700748;
+		sample = s_v_xp_snowtown_marli_1;
 		screen_text = "My brother, Cole, headed to the town of Lang through the northern Glacial Caverns last fall, but I havn't heard from him since. I'm terribly worried something awful happened to him. I was supposed to join him when the road was clear, but with the western bridge collapsed, we're cut off from the rest of the kingdom.";
 	}
 }
@@ -538,6 +597,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700748;
+		sample = s_v_xp_snowtown_marli_2;
 		screen_text = "I s'pose this'll teach everyone not to be skeered of lightning any more, what with twenty-four hour exposure to the stuff.";
 	}
 }
@@ -556,6 +616,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x0270073b;
+		sample = s_v_xp_snowtown_urpete_1;
 		screen_text = "You better leave if you know what good for you. I got friends who like teaching manners to nosy strangers.";
 	}
 }
@@ -565,6 +626,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x0270073b;
+		sample = s_v_xp_snowtown_urpete_2;
 		screen_text = "Hilmer no like lightning or stinky air!";
 	}
 }
@@ -574,6 +636,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700731;
+		sample = s_v_xp_snowtown_verla_1;
 		screen_text = "The troops have been talking for months about an expedition into the Glacial Caves north of here for months. I don't think they'll ever get around to it 'til the spring, though. No one in their right mind would travel during the middle of winter. The few who make it through to us speak of terrible creatures the size of houses!";
 	}
 }
@@ -583,6 +646,7 @@
 	{
 		button_1_text = "Directions";
 		button_1_value = d_0x02700731;
+		sample = s_v_xp_snowtown_verla_2;
 		screen_text = "How can anyone think clearly with everything so topsy-turvy?";
 	}
 }
