@@ -40,7 +40,7 @@ The "single-player" map variant is based on the revisit, with these additional c
 - Made all player-world-location triggers multi-player-only
 - Added Fury Eye
 - Enabled map for single-player
-- Renamed map ingame to *Utraean Peninsula (single-player)*, adapt description
+- Renamed map ingame to *Utraean Peninsula (revisited / single-player)*, adapted description
 - Made mules sellable, add mule merchants
 - Added companions! They're based on KoE originals, but renamed, conversations adapted etc.
 
