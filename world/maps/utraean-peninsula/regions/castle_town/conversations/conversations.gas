@@ -719,6 +719,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_castle_town_lord_bolingar_1;
 		screen_text = "By all the powers that be, a hero's face! The castle's overrun! The bloody Undead came up from below, but I don't know how. I fought them with my friends, but they've all joined their unholy ranks now... This formerly so proud town is busy just defending itself. Shall we join forces to fight them or go on separately?";
 	}
 }
@@ -726,6 +727,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_castle_town_lord_bolingar_2;
 		screen_text = "Let's not stand about then! There's a castle full of undead to fight!";
 	}
 }
@@ -733,6 +735,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_castle_town_lord_bolingar_3;
 		screen_text = "You need more money...";
 	}
 }
@@ -740,6 +743,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_castle_town_lord_bolingar_4;
 		screen_text = "Aye, we'll probably cover more territory alone, but watch out. Those Undead are thick as thieves throughout the castle.";
 	}
 }
@@ -747,6 +751,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_castle_town_lord_bolingar_5;
 		screen_text = "You wish to search alone? Hmmmph. Very well. We can meet here again if you need me.";
 	}
 }
@@ -755,6 +760,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_castle_town_lord_bolingar_6;
 		screen_text = "We haven't time to be indecisive! Shall we free the castle together or not?";
 	}
 }
@@ -763,6 +769,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_castle_town_lord_bolingar_7;
 		screen_text = "Let's go again together, shall we?";
 	}
 }

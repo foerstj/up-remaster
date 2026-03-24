@@ -939,6 +939,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_minetown_gloern_1;
 		screen_text = "This is a bad business, but we're no' the only ones in it! These attacks of Kroog and whatnot have gotten out of hand since the Queen died, and there'll be a blasted goblin behind this or I'm a mule's father! If at least Miner's Haven was ours again. I could truly use a hand in getting it free, if yer willing.";
 	}
 }
@@ -946,6 +947,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_minetown_gloern_2;
 		screen_text = "Let's get to it! There's a score o' Krug who need to re-learn who rules the Crystwind Mines!";
 	}
 }
@@ -953,6 +955,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_minetown_gloern_3;
 		screen_text = "Well here's the thing, I lost a game or two of cards against this damn Lescanzi in the inn, and I'm afraid if I just leave here without paying he'll come and find me, so...";
 	}
 }
@@ -960,6 +963,7 @@
 {
 	[text*]
 	{
+		sample = s_v_dm_gloern5;
 		screen_text = "Bah! Do you no' get it? We're fighting a war, and against who or what only the god knows! But, if you think you can fight it all on yer own, I guess I'll not stand in yer way. Go on, then.";
 	}
 }
@@ -967,6 +971,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_minetown_gloern_4;
 		screen_text = "Ach, some bloody gratitude for saving your hide! Well now, we'll jus see how well ye do without Bjoern!";
 	}
 }
@@ -975,6 +980,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_minetown_gloern_5;
 		screen_text = "I knew it! Didn't get very far without Bjoern, did ye? We shoulda fight together, not aloon! What's say we fight this evil together?";
 	}
 }
@@ -983,6 +989,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_dm_gloern6;
 		screen_text = "By the thousand holes of glory, get those brains o' yours workin'! Do ye want me ta help you or no'?";
 	}
 }
@@ -992,6 +999,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_minetown_boryev_1;
 		screen_text = "Zhese fools do not know a friend when zhey see him! I turn my spells against zhe Droog, but zhese Dwarves do not trust me because I am traveler, outsider! I know zhese Droog haf my cousin Lisbeth in a fortress in the Iliarth Canyon. I must know she is well. Perhaps if I come with you, they shall let me in, eh? I shall be sorcerer for you cheap. Zhat goot?";
 	}
 }
@@ -999,6 +1007,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_minetown_boryev_2;
 		screen_text = "You are good friend to Zarkh. I shall not forget. We go into zhe fortress together and see what we shall see!";
 	}
 }
@@ -1006,6 +1015,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_minetown_boryev_3;
 		screen_text = "Zhe Dwarves are watching. Zhey will expect to see an exchange of money, else zhey will not believe you truly hire Zarkh. When you have enough money, we try again.";
 	}
 }
@@ -1013,6 +1023,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_minetown_boryev_4;
 		screen_text = "Go then! If you do not trust Zarkh, I shall find someone else who needs zhe best sorcerer zhe Travelers hef to offer!";
 	}
 }
@@ -1020,6 +1031,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_minetown_boryev_5;
 		screen_text = "If you are satisfied with our bargain, zhen so is Zarkh! You will be well remembered by zhe Travelers of zhis peninsula!";
 	}
 }
@@ -1028,6 +1040,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_minetown_boryev_6;
 		screen_text = "Perhaps you hef zhought about Zarkh's problem? A little gold will buy you an excellent sorcerer, and all you must do in return is walk him through zhe gates of zhe Droog fortress in the Iliarth Canyon.";
 	}
 }
@@ -1036,6 +1049,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_cf_boryev7;
 		screen_text = "You have need yet of my powers? Let them be at your disposal! I shall do anytink zhat you ask.";
 	}
 }
@@ -1045,6 +1059,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_minetown_rhut_1;
 		screen_text = "So the Krug have taken this worthless bunch of mines, what of it, eh? 'Ave any of us found so much as a gold nugget since this mess started? Not bloody likely! I'm sick o' bleeding for spit! Tell you what. You come up with a nice sum, I'll show this dunghill my backside, and Hjort will work for you from now on. What do you think?";
 	}
 }
@@ -1052,6 +1067,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_minetown_rhut_2;
 		screen_text = "I think I'm going to likes workin' for you. Good enough! Hjort's your man!";
 	}
 }
@@ -1059,6 +1075,7 @@
 {
 	[text*]
 	{
+		sample = s_v_cf_rhut2;
 		screen_text = "I've had enough of people promisin' me money what they don't 'ave! Get lost you buggering snot wad!";
 	}
 }
@@ -1066,6 +1083,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_minetown_rhut_5;
 		screen_text = "Fine, fine. You bloody do whatever you bloody well want to do while the rest of us slave for the mine owners! I hopes you rot!";
 	}
 }
@@ -1073,6 +1091,7 @@
 {
 	[text*]
 	{
+		sample = s_v_cf_rhut6;
 		screen_text = "Let's see... keep on marchin' into the reeking maw of death, or go home with all me parts intact? Hmmm. Not a tough choice there, now is it? Not fer anyone who's still got a head on their shoulders! G'day chum!";
 	}
 }
@@ -1081,6 +1100,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_minetown_rhut_3;
 		screen_text = "Well, well, if it isn't the independent adventurer come back to visit Hjortie. You think about what I said before? My price will get you a superb axe-wielding, sword-slinging, death machine, it will.";
 	}
 }
@@ -1089,6 +1109,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_minetown_rhut_4;
 		screen_text = "What, are you mad? You want Hjort to come with you again? Not unless you've got more gold for me I won't.";
 	}
 }

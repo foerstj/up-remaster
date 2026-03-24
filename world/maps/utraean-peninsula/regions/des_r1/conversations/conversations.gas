@@ -448,6 +448,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_of_des_r1_ulfgrim_1;
 		screen_text = "An age ago I fought with the bladdy 2nd Legion in the battle o' the Plains. These days I've no more trust for queen nor Legion any more than I do for Droog nor Traveler. All I trust is a handful o' gold. If you want me to fight for ye, you have ta 'earn' my trust!";
 	}
 }
@@ -455,6 +456,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_of_des_r1_ulfgrim_2;
 		screen_text = "That's doon then. I'll fight for yer cause as long as I'm able, but doon expect me to bow and scrape to any Legion types. The only authority I respect in this warld is my own!";
 	}
 }
@@ -462,6 +464,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_of_des_r1_ulfgrim_3;
 		screen_text = "Are you a fool!?! That won't even buy the trust of a gremal! Don't talk ta me until you're prepared to pay!";
 	}
 }
@@ -469,6 +472,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_of_des_r1_ulfgrim_4;
 		screen_text = "Suits yourself! I just hope the other side doesn't make me a better offer!";
 	}
 }
@@ -476,6 +480,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_of_des_r1_ulfgrim_5;
 		screen_text = "You're as undecided as those bladdy sods who commanded the Legion during the battle o' the Plain! If you canna see what's good far you, it's best I left anyway! I hope yer enemies use your skull for a bedpan!";
 	}
 }
@@ -484,6 +489,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_of_des_r1_ulfgrim_6;
 		screen_text = "You've turned your back on Hildr before. That's a considerable lack o' respect to me. You'll pay me my standard fee plus a little extra for insulting my honor! What will it be?";
 	}
 }
@@ -492,6 +498,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_of_des_r1_ulfgrim_7;
 		screen_text = "I'm not in the best mood thanks to you, so I'll make myself plain. It's a dangerous world out there, and I'd be a fool not to take help even from the likes of you. I'll travel with you again, but don't expect I'll go much out o' my way to protect your sorry carcass. Got it?! Good!";
 	}
 }

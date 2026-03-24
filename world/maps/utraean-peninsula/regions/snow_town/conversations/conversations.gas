@@ -663,6 +663,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_snowtown_kroduk_1;
 		screen_text = "Chieftain tell Kraul 'bring caravan safe to Utraean Peninsula.' I bring to Elddim... then mule-eating Krug attack town! Driver steals wagon, driver takes Kraul gold, and driver runs away. Kraul tracks to Fallraen, but cannot chase further. Kraul help you if you help him. Kraul good at smashing, beating, crushing... anything! You like?";
 	}
 }
@@ -670,6 +671,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_snowtown_kroduk_2;
 		screen_text = "Aha! You make perfect, excellent choice! We have great fun pounding Krug, saving peninsula!";
 	}
 }
@@ -677,6 +679,7 @@
 {
 	[text*]
 	{
+		sample = s_v_nt_kroduk3;
 		screen_text = "Ah, well... I come with you when you have enough money. We have good time then, eh? Until then.";
 	}
 }
@@ -684,6 +687,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_snowtown_kroduk_4;
 		screen_text = "You think about it. Kraul will wait, be here when you're ready for big, strapping warrior, eh? Good, good. See you later.";
 	}
 }
@@ -691,6 +695,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_snowtown_kroduk_5;
 		screen_text = "What, you no like Kraul anymore? I good friend, smash enemies dead. You walk, cool off, get good sense back in head. Kraul will wait.";
 	}
 }
@@ -699,6 +704,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_snowtown_kroduk_6;
 		screen_text = "Come, we have fun, we crack heads, Kraul and little friend make great names in songs of heroes, eh?";
 	}
 }
@@ -707,6 +713,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_snowtown_kroduk_7;
 		screen_text = "Come, we have fun, we crack heads, Kraul and little friend make great names in songs of heroes, eh? Let's go together again. Sound good?";
 	}
 }
@@ -716,6 +723,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_snowtown_lorun_1;
 		screen_text = "If the priest's apprentice sees fit to send you oot on a madman's quest, I should at least see you've a chance at living through it. I'm the best mage in these parts and I may be old, but I was roasting goblins with mage fire when yer daddy's daddy was a whelp! If you've the gold so's I kin settle my accounts here, we can get moving afore you can say bless the Crystwind Mines. Will ye have me along?";
 	}
 }
@@ -723,6 +731,7 @@
 {
 	[text*]
 	{
+		sample = s_v_nt_lorun3;
 		screen_text = "Good enough. Let's be off, then!";
 	}
 }
@@ -730,6 +739,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_snowtown_lorun_2;
 		screen_text = "I'd be glad to join your company, but I can't do it for free. I've financial matters for the Legion to attend to here in Fallraen, but if you can help make up far some of the gold I lost to brigands on the way here, I'd be glad to toss in with your lot!";
 	}
 }
@@ -737,6 +747,7 @@
 {
 	[text*]
 	{
+		sample = s_v_nt_lorun5;
 		screen_text = "You're a mad duck you are, but do as you will. I shall be here when you come to your senses.";
 	}
 }
@@ -744,6 +755,7 @@
 {
 	[text*]
 	{
+		sample = s_v_nt_lorun7;
 		screen_text = "I don't know yer thinkin, but if you'll have no more of my company, then I suppose here's whar we break fellowship. Good luck to ye, all the same.";
 	}
 }
@@ -752,6 +764,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_nt_lorun6;
 		screen_text = "I'd still be glad to help you out---assuming you want helping. If you've got the gold I need for settling my affairs, we can be on the road before you say, 'catch a queensmen.' How about it?";
 	}
 }
@@ -760,6 +773,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_snowtown_lorun_3;
 		screen_text = "That's it, then? Yer joost going to march right up without an apology far abandoning me from before? Not soo much as an explanation? Ach, these new kidlings! If yer done fooling about now, I'd like to get back to our business. We've a peninsula to hold together!";
 	}
 }

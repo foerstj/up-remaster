@@ -922,6 +922,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_ulora_1;
 		screen_text = "I am the scribe Kerstin. Another day of translating ancient Utraean stone tablets for the Historical Society and I'll go as mad as old Lord Hovart. I'd rather go out to the Ancient Crypt and find the Townstone, but Kelti says it's not my job. Nonsense! The crypt is just to the east of here. Shall we travel together?";
 	}
 }
@@ -929,6 +930,7 @@
 {
 	[text*]
 	{
+		sample = s_v_cr_ulora2;
 		screen_text = "My thanks. I did not cherish the thought of finding my way alone. Let's make haste!";
 	}
 }
@@ -936,6 +938,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_ulora_2;
 		screen_text = "I need a little gold to quit this place though.";
 	}
 }
@@ -943,6 +946,7 @@
 {
 	[text*]
 	{
+		sample = s_v_cr_ulora3;
 		screen_text = "Very well. I'm sure I'll do quite fine alone, unarmed, and surrounded by Krug and other monstrocities. Good day to you!";
 	}
 }
@@ -950,6 +954,7 @@
 {
 	[text*]
 	{
+		sample = s_v_cr_ulora5;
 		screen_text = "You're as inconstant as the wind! Very well, go on then. I'll do well enough on my own.";
 	}
 }
@@ -958,6 +963,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_ulora_3;
 		screen_text = "The crypt is just to the east of here. Shall we travel together?";
 	}
 }
@@ -966,6 +972,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_ulora_4;
 		screen_text = "Come to join me again? I'd feel safer if you simply made a choice and abided by it. Nevertheless, shall we join forces?";
 	}
 }
@@ -975,6 +982,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_gyorn_1;
 		screen_text = "The Krug are getting more cheeky every day. They already smashed the old orchard house! I'd rather go back to Fallraen, but I owe some money to those adventurers in the inn. If you could pay me out, we can leave this place together!";
 	}
 }
@@ -982,6 +990,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_gyorn2;
 		screen_text = "Aye, I knew you'd be the right sort for a trek! Well met, friend!";
 	}
 }
@@ -989,6 +998,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_gyorn_2;
 		screen_text = "I owe some money to those adventurers in the inn though...";
 	}
 }
@@ -996,6 +1006,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_gyorn_3;
 		screen_text = "Bah, just as well. It's heroics that's called for now, and I've no business dragging you into Elddim's mess. Good luck to ye.";
 	}
 }
@@ -1003,6 +1014,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_gyorn5;
 		screen_text = "Ah well, I suppose I'll find someone else to travel with.";
 	}
 }
@@ -1011,6 +1023,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_gyorn_4;
 		screen_text = "If you could pay me out, we can leave this place together! What do you think?";
 	}
 }
@@ -1019,6 +1032,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_gyorn_5;
 		screen_text = "Back for Martin are ya? I'd be glad to follow ya, if you'd like the company. Nothing worse than following a long road and not having a soul to talk to. Shall we?";
 	}
 }
@@ -1028,6 +1042,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_naidi_1;
 		screen_text = "Sorry for looking such a mess. I took an arrow yesterday walking through the Iliarth Valley, but I'm not really all that injured. Kelti's got me patched up, and I'm ready to get back into the fight again if someone will just believe in me. If you need a good archer to escort you through the mess beyond Elddim, I'd be glad to help. I just need some gold to settle my healing bill. Interested?";
 	}
 }
@@ -1035,6 +1050,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_naidi_2;
 		screen_text = "Lisa the archer is at your service. You just tell me where we're going, and I'll do everything I can to get us there alive!";
 	}
 }
@@ -1042,6 +1058,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_naidi3;
 		screen_text = "I appreciate your vote of confidence, but I can't go until I settle my accounts. You come find me when you've got enough money.";
 	}
 }
@@ -1049,6 +1066,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_naidi4;
 		screen_text = "A lady has to try, doesn't she? If you change your mind, you'll know where to find me.";
 	}
 }
@@ -1056,6 +1074,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_naidi5;
 		screen_text = "Oh... Have I given offense, or fallen short of expectations? I know I'm not yet fully myself after my injuries, but perhaps if I practice in your absence, I can once again be worthy of escorting you. Be well, friend.";
 	}
 }
@@ -1064,6 +1083,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_naidi_3;
 		screen_text = "If you need a good archer to escort you through the mess beyond Elddim, I'd be glad to help. I just need some gold to settle my healing bill. Interested?";
 	}
 }
@@ -1072,6 +1092,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_bt_naidi6;
 		screen_text = "I know we parted badly before, but I wish to make amends! I shall be glad to serve again, if you'll have me.";
 	}
 }
@@ -1081,6 +1102,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_bt_rusk1;
 		screen_text = "Hey! Watch who you're kickin'! I've got a sword and a mind to use it--and I would, too, if I didn't have this bloody hangover. Ach. People keep bothering me with some damn nonsense about saving the village. But you look the sort that'll pay for my services. For a clink of gold you'll have the best sword slinger around. Deal?";
 	}
 }
@@ -1088,6 +1110,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_rusk2;
 		screen_text = "You'll not regret it. I'm the best there is. And now that I'm working for you, I just want you to know that my drinking won't be a problem. You pay, I drink, and we'll have no troubles a'tall.";
 	}
 }
@@ -1095,6 +1118,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_rusk_1;
 		screen_text = "Well, your head was in the right place, but it doesn't appear you've got enough gold on you. You just come find old Rach when you need the best swordsman on the Peninsula.";
 	}
 }
@@ -1102,6 +1126,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_rusk4;
 		screen_text = "Errrr...bothersome, stinking, plow-pushing, dirt-eating farm rat...";
 	}
 }
@@ -1109,6 +1134,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_rusk6;
 		screen_text = "You wanna cut me loose, fine by me. That just leaves me free to find somebody who'll pay me what I'm worth.";
 	}
 }
@@ -1117,6 +1143,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_bt_rusk5;
 		screen_text = "So, the farm rat is back. I've still got a sword and the skill to use it. Same price and I'm yours.";
 	}
 }
@@ -1125,6 +1152,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_bt_rusk7;
 		screen_text = "You're just the luckiest sod on earth that someone hasn't come along and hired me. You want me back, I'll come along. But you'd best learn to show more appreciation to ole Rach this time around!";
 	}
 }
@@ -1134,6 +1162,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_xp_zed_1;
 		screen_text = "Greetings! I am Marshwind the sorcerer, and as of late, Marshwind the bored. I came to see this peninsula full of ancient Utraean ruins and artifacts, and I ended up in this wretched village. If you can use a sorcerer, take me with you. I'd certainly like to see some excitement somewhere on the peninsula. Normally, I charge a fortune for my services, but I'd be willing to take somewhat less just to get out of this putrid place. Is my fee acceptable?";
 	}
 }
@@ -1141,6 +1170,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_zed2;
 		screen_text = "Salvation at last! Let's see what kind of trouble we can get into!";
 	}
 }
@@ -1148,6 +1178,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_zed3;
 		screen_text = "Well, I see my luck hasn't changed. You're out of gold my friend. Come back when you've got enough coins in your pouch. I can't afford to wander about without money for necessities!";
 	}
 }
@@ -1155,6 +1186,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_zed4;
 		screen_text = "Oh, very well. Condemn me to stay here. I suppose I can go tip over a sleeping cow for fun. I hear that's positively a hoot in these parts.";
 	}
 }
@@ -1162,6 +1194,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_zed6;
 		screen_text = "It's because I'm a sorcerer, isn't it? Well let me tell you we don't eat children, we don't spoil milk, and we most especially don't turn people into newts! Though if I had such a spell right now, I'd be sorely tempted to use it! Begone!";
 	}
 }
@@ -1170,6 +1203,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_bt_zed5;
 		screen_text = "Are you ready to pay the price? If so, I'm ready to leave.";
 	}
 }
@@ -1178,6 +1212,7 @@
 	[text*]
 	{
 		choice = potential_member;
+		sample = s_v_bt_zed7;
 		screen_text = "Gloating, are you? I'm not having any fun standing around here if that's what you're worried about. Still, I'd be glad to lend you a hand if you want.";
 	}
 }
