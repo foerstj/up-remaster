@@ -895,6 +895,7 @@
 	[text*]
 	{
         choice = buy_packmule;
+		sample = s_v_bt_owen1;
 		screen_text = "Krug. You ask me, we should'a run the bastards outta these hills when we settled here. All those dung eaters left me were a Jack and a half lame mare. The Jack I can part with for a price, though not for half as much I could've a week ago. You interested?";
 	}
 }
@@ -902,6 +903,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_mule_merchant_elddim_3;
 		screen_text = "I still got ole Plodder, if you're interested.";
         choice = buy_packmule;
 	}
@@ -910,6 +912,7 @@
 {
 	[text*]
 	{
+		sample = s_v_bt_owen2;
 		screen_text = "Good luck to you, then.";
 	}
 }
