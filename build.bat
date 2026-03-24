@@ -63,7 +63,7 @@ setlocal EnableDelayedExpansion
 if not "%mode%"=="light" (
   rmdir /S /Q "%tmp%\Bits"
   robocopy "%bits%\language" "%tmp%\Bits\language" /E
-  "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Resources\%map_cs%.de.dsres" -copyright "CC-BY-SA 2022" -title "%map_cs%" -author "Johannes Förstner"
+  "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Resources\%map_cs%.de.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
   if !errorlevel! neq 0 pause
 )
 endlocal
