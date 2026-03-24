@@ -4,7 +4,7 @@
 {
 	[text*] 
 	{	
-	
+		sample = s_v_xp_dark_forest_tracker_1;
 		screen_text = "Seeking yer fortunes in the murky waters of Lang Mire, are ye? Ye'll know this place is seething with danger, then, with only the gods-know-what lurking beneath the muck. I'd never be out this way meself, 'cept someone has to wipe the signs clear of mold and trim the wicks on the torches. Lang is a goodly trudge west o' here. Jes follow yer nose -- them torches burn pure troll fat, an' it stinks worse then a swamp witch's breath.";
 	}
 
@@ -13,6 +13,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_dark_forest_tracker_2;
 		screen_text = "Pshaw! Betwixt the unholy flashes o' lightning and that powerful stink, I'm not sure which has me more befuddled.";
 	}
 }

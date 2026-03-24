@@ -10,7 +10,7 @@
 {
 	[text*] 
 	{	
-	
+		sample = s_v_xp_snowforest_tracker_1;
 		screen_text = "Good to see another soul out braving the snow for once! It's been too long since these roads were traveled, my friend. Best keep your eyes open, however. I've hardly had a chance to reset my traps before they're full again. With so many critters roaming the Mt. Elspen Forest these days, you'd probably be much more comfortable traveling through the Crystal Caverns just to the south where you'll be out of the cold.";
 		button_1_text = "Directions";
        	button_1_value = d_0x05900D21;
@@ -21,6 +21,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_snowforest_tracker_2;
 		screen_text = "I don't expect I'll be catching much in my traps with the weather so bizarre. Lightning scares even the boldest critters back to their dens.";
 			button_1_text = "Directions";
        		button_1_value = d_0x05900D21;
@@ -33,14 +34,14 @@
 	{
 		order = 0;
 		choice = shop;
-
+		sample = s_v_xp_snowforest_dornek_1;
 		screen_text = "Aargh! I thought ye were one of those blasted snow beasts. They took over me quarry and killed me workers, so what was I to do but run for the safety of the Ancient Temple? At least I managed to stuff a handful of me best blades into me pack, not that they're much use now. Would ye like to buy one?";
 	}
 	[text*]
 	{
 	        order = 1;
 		choice = shop;
-
+		sample = s_v_xp_snowforest_dornek_2;
 		screen_text = "Half the buildings in the Utraean Peninsula are built with stones from me quarry. I've a reputation to keep and a family to feed. I'm sure the vermin will leave come spring, but until then, a man's got to make a living selling something.";
 	}
 
@@ -48,7 +49,7 @@
 	{
 
 		choice = shop;
-
+		sample = s_v_xp_snowforest_dornek_3;
 		screen_text = "It's a good thing you're so willing to let your money and goods change hands; I'll need quite a bit of coin to hire new lads, now that the Klaw have run me crew to their deaths.";
 	}
 
@@ -57,6 +58,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_snowforest_dornek_4;
 		screen_text = "Blast it all! First I lose me quarry, and now the sky's on fire. What evil could be behind this?";
 			
 	}

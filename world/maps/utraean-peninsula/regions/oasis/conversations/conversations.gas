@@ -12,7 +12,7 @@
 	{
 		order = 0;
 		choice = shop;
-
+		sample = s_v_xp_oasis_sultrin_1;
 		screen_text = "I've been crafting out here in Grescal going on thirty years. It's quiet, all right, but that's what we prefer. You won't find anyone who'd spend any length of time here who isn't a bit of a hermit. You're welcome to take a look at my wares if you like.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076000b6;
@@ -21,7 +21,7 @@
 	{
         order = 1;
 		choice = shop;
-
+		sample = s_v_xp_oasis_sultrin_2;
 		screen_text = "Still in town, are you? You'll burn your feet on the sand if you stay in one place for too long. You'll find my boots will keep you cool. Just don't head into the dunes if you value your sanity, eh?";
 		button_1_text = "Directions";
        		button_1_value = d_0x076000b6;
@@ -31,7 +31,7 @@
 	{
 
 		choice = shop;
-
+		sample = s_v_xp_oasis_sultrin_3;
 		screen_text = "I can see you're no fool. If you head north to the edge of the village and then east, you'll come across what's left of a ruined Utraean temple. It's said to be haunted, so take care if you venture near it.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076000b6;
@@ -42,7 +42,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_sultrin_4;
 		screen_text = "Must be one fierce sandstorm to turn the sky so red!";
 		choice = shop;
 		button_1_text = "Directions";
@@ -56,7 +56,7 @@
 	{
 		order = 0;
 		choice = shop;
-
+		sample = s_v_xp_oasis_vielle_1;
 		screen_text = "I bet Sultrin's already filled your head with tales of woe about the southern dunes. And he's right - you won't get very far without a goodly supply of my healing elixirs.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076000ba;
@@ -64,7 +64,7 @@
 	[text*]
 	{
 		choice = shop;
-
+		sample = s_v_xp_oasis_vielle_2;
 		screen_text = "You look the sort who'd be interested in seeking the lost pyramids. They're out there, you know. It's said they contain long lost magics and hold unbelievable power.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076000ba;
@@ -75,7 +75,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_vielle_3;
 		screen_text = "This is no sandstorm -- there's something unnatural at work here!";
 		choice = shop;
 		button_1_text = "Directions";
@@ -89,6 +89,7 @@
 	{
         order = 0;
         choice = more;
+		sample = s_v_xp_oasis_kylira_1;
 		screen_text = "You look like a resourceful sort of person. The Circle might have need of one such as yourself, if you're in the mood. Interested?";
 		button_2_text = "Directions";
        		button_2_value = d_0x076004cd;
@@ -97,6 +98,7 @@
     [text*]
 	{
         order = 1;
+		sample = s_v_xp_oasis_kylira_2;
 		screen_text = "Grescal has need of a brave adventurer, but how do I know you won't just rob us blind? I'm not so good at reading people, myself. If you travel to Elddim, speak with Utraean Priestess Kelti in the Shrine of Passion there. She is seeking one with a strong soul and daring heart, and she is much better equipped to deal with those who...don't quite fit the mold.";
         activate_quest* = goto_elddim;
         button_1_text = "Directions";
@@ -104,7 +106,7 @@
 	}
      [text*]
 	{
-
+		sample = s_v_xp_oasis_kylira_3;
 		screen_text = "If Priestess Kelti deems you trustworthy, I may have something for you later.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076004cd;
@@ -116,6 +118,7 @@
 	{
         order = 0;
         choice = more;
+		sample = s_v_xp_oasis_kylira_4;
 		screen_text = "If this drought keeps up, there will not be much here other than dust and blowing sand. That's why we must succeed in assembling the Circle in Hiroth. I have dreamt of a vast reservoir of water hidden beneath the land. I am certain the Utraeans stockpiled it just for times like these. When the Circle is complete, we will finally be able to use it, and the town of Grescal will be saved.";
         complete_quest* = goto_grescal;
         complete_quest* = goto_grescal_b;
@@ -125,7 +128,7 @@
     [text*]
 	{
         order = 1;
-
+		sample = s_v_xp_oasis_kylira_5;
 		screen_text = "The Grescal Palm Stone was stolen from us a few nights back. I fear there is something living in the ruined Utraean temple northeast of town. We found the Stone Guardian with his throat slashed and the Townstone gone from its resting place. I have heard tales of your bravery -- I am certain you are the one who can find our Stone and carry it safely to Hiroth. Please do not fail us now!";
         activate_quest* = quest_grescal;
         activate_quest* = quest_townstones;
@@ -142,6 +145,7 @@
 	[text*]
 	{
         order = 0;
+		sample = s_v_xp_oasis_kylira_6;
 		screen_text = "It is usually very quiet around here. But strange noises have been heard coming from the ruined Utraean temple to the northeast, so I suggest you start there.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076004cd;
@@ -154,6 +158,7 @@
 	{
         order = 0;
         choice = more;
+		sample = s_v_xp_oasis_kylira_7;
 		screen_text = "You have the Palm Stone! The Gods favor you, my child. I am glad we will no longer fear for our safety with the ruined temple so close. I was certain our fate would be sealed, even if we did have enough water to spare. I give you my heartfelt thanks.";
 		button_2_text = "Directions";
        		button_2_value = d_0x076004cd;
@@ -162,6 +167,7 @@
     [text*]
 	{                                          //give reward
         order = 1;
+		sample = s_v_xp_oasis_kylira_8;
 		screen_text = "Please accept this small trifle as thanks for a task well done. Grescal's citizens will be praying for you on your journey to Hiroth.";
          complete_quest* = quest_grescal;
         activate_quest* = goto_hiroth_b;
@@ -179,6 +185,7 @@
 	{
         order = 0;
         choice = more;
+		sample = s_v_xp_oasis_kylira_9;
 		screen_text = "You have the Palm Stone! The gods favor you, my child. I am glad we will no longer fear for our safety with the ruined temple so close. I was certain our fate would be sealed, even if the Circle was completed and the vast reservoir I dreamt about beneath the land was opened for our use. I give you my heartfelt thanks.";
         complete_quest* = goto_grescal_b;
         complete_quest* = goto_grescal;
@@ -189,7 +196,7 @@
     [text*]
 	{
         order = 1;                          //give reward
-
+		sample = s_v_xp_oasis_kylira_10;
 		screen_text = "Please accept this small trifle as thanks for your bravery in returning safety to our town. Grescal's citizens will be praying for you on your journey to Hiroth.";
         activate_quest* = goto_hiroth_b;
         button_1_text = "Directions";
@@ -202,6 +209,7 @@
 	[text*]           //active goto hiroth quest
 	{
         order = 0;
+		sample = s_v_xp_oasis_kylira_11;
 		screen_text = "The mausoleum below Castle Hiroth exits into the desert cliffs to the far west of here. It is not a journey I would advise, however. Most can't stand being out on the dunes for more than a few minutes, let alone days. Since you are able, you'd fare much better traveling through the Basilicus, and it's faster, too!";
 		button_1_text = "Directions";
        		button_1_value = d_0x076004cd;
@@ -210,7 +218,7 @@
 
 	[text*]           //if you have all the stones
 	{
-
+		sample = s_v_xp_oasis_kylira_12;
 		screen_text = "High Priest Kavaren is waiting for your arrival in Hiroth. May Azunai bless you and give you courage!";
         activate_quest* = goto_hiroth_b;
         button_1_text = "Directions";
@@ -222,7 +230,7 @@
 {
 	[text*]           //world is red (quest_townstones is on state 3)
 	{
-
+		sample = s_v_xp_oasis_kylira_13;
 		screen_text = "We are doomed! I should have known that red tinge to my dreams was ill-fated. It is my fault for not heeding the warning! It was not a lake of water, but poison!";
 		button_1_text = "Directions";
        		button_1_value = d_0x076004cd;
@@ -233,7 +241,7 @@
 {
 	[text*]           //quest_townstones is complete
 	{
-        
+		sample = s_v_xp_oasis_kylira_14;
 		screen_text = "You are truly a hero. Perhaps we will change our town name to honor you as is fitting. If there is ever anything I can do for you, I am at your service.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076004cd;
@@ -246,7 +254,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_reena_1;
 		screen_text = "Welcome to Grescal, capital of the sandy nether lands! It's a great place to be if you've got nowhere else to go. And even if you do have somewhere else to be, you'll never get there from here. Heh heh heh.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076001bd;
@@ -256,7 +264,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_reena_2;
 		screen_text = "I knew I should have escaped to Meren when I had the chance. Now I'm stuck in the hottest place in the Utraean Peninsula, and the air reeks of brimstone to boot!";
 		button_1_text = "Directions";
        		button_1_value = d_0x076001bd;
@@ -266,7 +274,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_trissa_1;
 		screen_text = "It's said there are ancient pyramids far to the southeast, somewhere in the Endless Desert.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076001bc;
@@ -276,7 +284,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_trissa_2;
 		screen_text = "Ohh, my head is splitting! I'm not sure which is worse, the smell or the lightning.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076001bc;
@@ -286,7 +294,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_calixtica_1;
 		screen_text = "I had a strange dream last night. I was lost in the Endless Desert and came upon two huge pyramids! I entered the first and found myself in a dim hallway that seemed to go on forever. I must have been nearing the end, because I heard seagulls and waves lapping at a shore... I saw sunlight at the end of the tunnel, growing brighter and brighter... and then I awoke.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076006fa;
@@ -296,7 +304,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_calixtica_2;
 		screen_text = "I am going to find that place in my dreams by the sea where the air is cool, even if it kills me! No one can be expected to stay here with the air so foul!";
 		button_1_text = "Directions";
        		button_1_value = d_0x076006fa;
@@ -306,7 +314,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_damog_1;
 		screen_text = "I've traveled extensively through these parts, and I can tell you all that's out there is empty rolling dunes that go on forever. ";
 		button_1_text = "Directions";
        		button_1_value = d_0x0760068d;
@@ -316,7 +324,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_damog_2;
 		screen_text = "I live way out here at the edge of the world to escape from the catastrophes caused by ignoramuses. Apparently this isn't far enough.";
 		button_1_text = "Directions";
        		button_1_value = d_0x0760068d;
@@ -326,7 +334,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_birutir_1;
 		screen_text = "It's said that you can reach the town of Hiroth far to the west of here, but who would be fool enough to set out into the desert for a trip that takes weeks of travel? One good sandstorm, and you're a goner.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076006de;
@@ -336,7 +344,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_birutir_2;
 		screen_text = "I heard a rumor that one of the Lost Pyramids leads into the fiery depths of the earth! If it's anything like the air up here now, I don't want to ever see it!";
 		button_1_text = "Directions";
        		button_1_value = d_0x076006de;
@@ -346,7 +354,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_wylie_1;
 		screen_text = "Them Gikk are good eatin.' Easy to catch and they taste like chicken!";
 		button_1_text = "Directions";
        		button_1_value = d_0x076001c1;
@@ -356,7 +364,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_wylie_2;
 		screen_text = "Bloody stinkin' 'ell. Why can't the weather be normal here for once?";
 		button_1_text = "Directions";
        		button_1_value = d_0x076001c1;
@@ -366,7 +374,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_alwyn_1;
 		screen_text = "I spent a few months lost in the endless dunes. Somehow I reached the Mesa Desert and its towering cliffs, and while they were amazing to see, they were just as lifeless as the dunes.";
 		button_1_text = "Directions";
        		button_1_value = d_0x076001c3;
@@ -376,7 +384,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_oasis_alwyn_2;
 		screen_text = "What's the world coming to?";
 		button_1_text = "Directions";
        		button_1_value = d_0x076001c3;
