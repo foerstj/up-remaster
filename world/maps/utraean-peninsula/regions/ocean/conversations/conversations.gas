@@ -209,7 +209,7 @@
 	{
 		choice = buy_packmule;
 		sample = s_v_xp_ocean_mule_merchant_meren_1;
-		screen_text = "Hello, welcome to the livery stable of Meren! Would you be interested in my stalward mules?";
+		screen_text = "Hello, welcome to the livery stable of Meren! Would you be interested in my stalwart mules?";
 	}
 }
 [conversation_mule_merchant_meren_no_packmules]
