@@ -32,6 +32,7 @@ The "revisited" map variant is based on the remaster, with these additional chan
 - Fixed shop doors in Meren that you could walk through
 - Fixed pieces of rivers flowing in the wrong direction
 - Fixed entrance direction into Ancient Temple (compass switch)
+- Added voice sample names for Thrillvilled's AI Voices mod
 
 ## How to build
 

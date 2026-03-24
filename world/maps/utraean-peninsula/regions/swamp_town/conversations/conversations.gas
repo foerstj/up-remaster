@@ -12,7 +12,7 @@
 	{
 		order = 0;
 		choice = shop;
-
+		sample = s_v_xp_swamp_town_rumben_1;
 		screen_text = "Stars, it's a regular menagerie today! Lang hasn't seen this much business in ages, I tell you. It helps that we serve all kinds; I just ask that you not leave any body parts behind. Not all customers take kindly to that, y'know.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e000d0;
@@ -21,7 +21,7 @@
 	{
         order = 1;
 		choice = shop;
-
+		sample = s_v_xp_swamp_town_rumben_2;
 		screen_text = "It's your lucky day! A nice zombie chap brought in a shipment of genuine Quillrabe leather today, and I've already got some lovely pieces ready to go. Of course, if you're planning to venture south towards Quillrabe itself, the leather is far cheaper, but I assure you, it'll be nowhere near the quality of mine.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e000d0;
@@ -31,7 +31,7 @@
 	{
 
 		choice = shop;
-
+		sample = s_v_xp_swamp_town_rumben_3;
 		screen_text = "Still haven't explored all of Lang's charms? Well, if I were you, I'd buy something soon and get out before even your feet go to spore. Everything does, sooner or later. Even if you're... a Traveler.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e000d0;
@@ -42,6 +42,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_rumben_4;
 		screen_text = "Red's a far cry from green, at least! I kind of enjoy the change of weather!";
 		choice = shop;
 		button_1_text = "Directions";
@@ -55,7 +56,7 @@
 	{
 		order = 0;
 		choice = shop;
-
+		sample = s_v_xp_swamp_town_ninale_1;
 		screen_text = "Come inside, my child. Now, you'll be looking for a fortune, or perhaps a premonition? Well, I'll tell you this; there are great things in store for you to the north, if you're willing to take the risk. I've seen... visions... of the horrors emerging from the sulfurous caves. Perhaps you are the one to clean them out once and for all?";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e0009f;
@@ -63,7 +64,7 @@
 	[text*]
 	{
 		choice = shop;
-
+		sample = s_v_xp_swamp_town_ninale_2;
 		screen_text = "Travelers are... concerned about those caves. Perhaps it is time to move on to less... infested waters. Well, my herbs and unguents will help you choose your way. My mixtures may not be so pure as those found in Elddim, but that's a long walk east through treacherous swamp. But it's your health at stake, so what will it be?";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e0009f;
@@ -74,6 +75,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_ninale_3;
 		screen_text = "Janeira has been cackling to herself ever since the sky turned red!";
 		choice = shop;
 		button_1_text = "Directions";
@@ -86,6 +88,7 @@
 	{
         order = 0;
         choice = more;
+		sample = s_v_xp_swamp_town_janeira_1;
 		screen_text = "If I'm not mistaken, you carry the Mark of fire upon you. The Society might have need of one such as yourself, if you're able and willing, interested?";
 		button_2_text = "Directions";
        		button_2_value = d_0x04e003ff;
@@ -94,6 +97,7 @@
     [text*]
 	{
         order = 1;
+		sample = s_v_xp_swamp_town_janeira_2;
 		screen_text = "The Utraean Society is always looking for those with special abilities. If you travel to Elddim, speak with Utraean Priestess Kelti in the Shrine of Passion there.";
         activate_quest* = goto_elddim;
 		quest_dialog = true;
@@ -102,7 +106,7 @@
 	}
      [text*]
 	{
-
+		sample = s_v_xp_swamp_town_janeira_3;
 		screen_text = "If Priestess Kelti deems you trustworthy, I may have something for you later.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e003ff;
@@ -114,6 +118,7 @@
 	{
         order = 0;
         choice = more;
+		sample = s_v_xp_swamp_town_janeira_4;
 		screen_text = "Ahh, Priestess Kelti spoke to me in my dreams about you. That fool, Priest Lagreth of Fallraen, tried and failed to steal the Lang Mosquito Stone for his own uses. I hear a band of Furoks rewarded him well for his shenanigans. Ha! The old goat seems to think all will be milk and honey once the Circle is built, but mark my words, the man is too senile to remember even what month it is. I have tried to warn the Society, but they do not listen to old witches like they should.";
         complete_quest* = goto_lang;
         complete_quest* = goto_lang_b;
@@ -123,7 +128,7 @@
     [text*]
 	{
         order = 1;          // drop stone_glb_lang_01
-
+		sample = s_v_xp_swamp_town_janeira_5;
 		screen_text = "Aye, I have the Lang Mosquito Stone, and I will give it to you, but take note: all is not as it seems in the Utraean Peninsula.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e003ff;
@@ -131,8 +136,7 @@
 	}
     [text*]
 	{
-
-
+		sample = s_v_xp_swamp_town_janeira_6;
 		screen_text = "The Stone is yours for the taking to do with what you like. Go ahead and place it in the Circle in Hiroth; it will happen inevitably. You might survive it, you might not, but you'll never know if you don't take it and find out.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e003ff;
@@ -149,6 +153,7 @@
 
         order = 0;
         choice = more;
+		sample = s_v_xp_swamp_town_janeira_7;
 		screen_text = "Very well, you accept. It is high time the Utraean Society learned not to meddle in things they do not understand. I admit my visions are cloudy, but I fear the omens have been ill lately.";
 		button_2_text = "Directions";
        		button_2_value = d_0x04e003ff;
@@ -157,7 +162,7 @@
     [text*]
 	{
         order = 1;
-
+		sample = s_v_xp_swamp_town_janeira_8;
 		screen_text = "I've frightened you, have I? Well, good. You seemed a tad too cocky there, my friend. Never embark on a journey without being prepared for the worst, that's what I always say! Now then, go to Quillrabe and have a draught of ale next to the river Iliarth. I'm sure it will cheer you up, and you can speak with Utraean Priest Ferdl while you are there.";
         activate_quest* = goto_quillrabe;
         	button_1_text = "Directions";
@@ -172,7 +177,7 @@
 {
 	[text*]           //active goto quillrabe quest
 	{
-
+		sample = s_v_xp_swamp_town_janeira_9;
 		screen_text = "What are you still doing in this dreary town? Go to Quillrabe and leave an old witch to her ramblings.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e003ff;
@@ -183,6 +188,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_janeira_10;
 		screen_text = "So you have returned? The priests are fools as you can see, toddlers cavorting with pretty baubles of which they do not understand the danger. I can understand the secrets of the Utraeans, but the world is not yet ready for them to be revealed. Go back to Kavaren in Hiroth, and end this madness as you have been ordained to do. You and I will meet again someday, and then we shall see who dares ignore an old woman's fancy.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e003ff;
@@ -192,6 +198,7 @@
 {
 	[text*] //townstone quest is complete
 	{
+		sample = s_v_xp_swamp_town_janeira_11;
 		screen_text = "Order is restored to the land, but the spirits are still restless. There is yet unfinished business to attend to, in another time and place. There are lessons still to be learned from the Utraeans, but not yet, not now. Enjoy your life, Adventurer, until we meet again.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e003ff;
@@ -202,7 +209,7 @@
 {
 	[text*]
 	{
-
+		sample = s_v_xp_swamp_town_zroecha_1;
 		screen_text = "Blasted mosquitoes! At least they're not oversized like the bugs coming out of the Southern Forest. Even the undead won't go that way these days.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e001f8;
@@ -212,6 +219,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_zroecha_2;
 		screen_text = "I've lived in the swamp all of my life, and never seen the sky any other color than green. What could this mean?";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e001f8;
@@ -222,7 +230,7 @@
 	
 	[text*]
 	{
-        
+		sample = s_v_xp_swamp_town_marika_1;
 		screen_text = "If you head out into the swamp, look closely at the trees; they don't all get their food from sunlight, if you know what I mean.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002c7;
@@ -233,6 +241,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_marika_2;
 		screen_text = "I hear a name whispered on this otherwordly wind...Can you hear it too?";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002c7;
@@ -243,6 +252,7 @@
 	
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_karkk_1;
 		screen_text = "I just got chased by a fish the size of a whale into that old abandoned mine shaft in Redwood Gap! Luckily, I managed to grab hold of a beam as I fell in. The sounds coming from that pit were not natural. I hate to think what it was.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002cb;
@@ -252,6 +262,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_karkk_2;
 		screen_text = "That old witch Janeira is at the root of this mess, I tell you! We never had any troubles before she came here.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002cb;
@@ -262,6 +273,7 @@
 	
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_tarvik_1;
 		screen_text = "If you head south into Redwood Gap, stay away from the cave to the east. It may look like an abandoned mine shaft, but no one who enters ever returns.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002d4;
@@ -271,6 +283,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_tarvik_2;
 		screen_text = "Even wandering alone for eternity in the Pit of Despair would be better than choking on this foul air!";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002d4;
@@ -281,6 +294,7 @@
 	
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_filia_1;
 		screen_text = "My brother left to explore that abandoned mining cave to the south in Redwood Gap. It's been six months, and he still hasn't returned! Seems all those warning signs weren't enough to knock some common sense into his head.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002d5;
@@ -290,6 +304,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_filia_2;
 		screen_text = "We should drive those witches Janeira and Ninale out of town, Travelers or no, they will destroy us all!";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002d5;
@@ -299,7 +314,7 @@
 {
 	[text*]
 	{
-        
+        sample = s_v_xp_swamp_town_guard_1_1;
 		screen_text = "I've heard tales of a tower in the northern forest so tall it touches the sky! Of course, I've never seen anything taller than Hiroth Castle. Supposedly the old abandoned mine shaft in Redwood Gap drops into a massive pit! I've only heard of one man who ever made it out alive, and he was as crazy as a bat after being stuck in there alone for years.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002d2;
@@ -309,6 +324,7 @@
 {
 	[text*]
 	{
+        sample = s_v_xp_swamp_town_guard_1_2;
 		screen_text = "The Legion survived the fall of the Empire of Stars. We will survive this too.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002d2;
@@ -318,7 +334,7 @@
 {
 	[text*]
 	{
-        
+        sample = s_v_xp_swamp_town_guard_2_1;
 		screen_text = "If you know what's good for you, you will stick to the marked walkways. We have a hard enough time keeping them clear, let alone to start venturing into the stinking swamp.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002d1;
@@ -328,6 +344,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_swamp_town_guard_2_2;
 		screen_text = "Now that the sky has turned red, I have seen just about everything you could imagine floating, dead, up from the swamp. I am sure glad I never had to fight half that stuff while it was alive.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002d1;
@@ -337,7 +354,7 @@
 {
 	[text*]
 	{
-        
+        sample = s_v_xp_swamp_town_guard_3_1;
 		screen_text = "I should have known when the town crier announced the wages for this job that there was something amiss. What I wouldn't give to be back in Elddim right now breathing the fresh farmland air.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002d0;
@@ -347,6 +364,7 @@
 {
 	[text*]
 	{
+        sample = s_v_xp_swamp_town_guard_3_2;
 		screen_text = "I thought the swamp gas stank. I'd pay a week's wages just to have a full breath of it now that the sky rains death. The stench of brimstone is worse!";
 		button_1_text = "Directions";
        		button_1_value = d_0x04e002d0;
@@ -376,7 +394,7 @@
 {
 	[text*]	//23 - 24
 	{
-
+		sample = s_v_xp_swamp_town_guard_n_1;
 		screen_text = "You look a bit bored with town life. If you wade across the northern island and cross the water to the northwest, you'll come across the Sulfur Tunnels at the edge of the forest. You'd have a grand old time playing with the living crystals there. ";
 		button_1_text = "Directions";
        		button_1_value = d_0x04E000FD;
@@ -386,7 +404,7 @@
 {
 	[text*] //level 22 or lower
 	{
-
+		sample = s_v_xp_swamp_town_guard_n_2;
 		screen_text = "Hahaha, you aren't seriously considering traveling into the swamps, as inexperienced as you clearly are, are you? I don't know what you're doing in these parts, but I highly suggest you rethink it before you die, or worse, dirty up that pretty armor of yours!";
 		button_1_text = "Directions";
        	button_1_value = d_0x04E000FD;
@@ -396,7 +414,7 @@
 {
 	[text*]	//level 25+
 	{
-
+		sample = s_v_xp_swamp_town_guard_n_3;
 		screen_text = "Out for a bit of slashing practice, are you? You won't find much worthy prey out here, I'm afraid. The critters are smarter than you think -- they'll not likely leave the murk to pursue one so highly experienced as yourself.";
 		button_1_text = "Directions";
        	button_1_value = d_0x04E000FD;
@@ -406,7 +424,7 @@
 {
 	[text*]
 	{
-		
+		sample = s_v_xp_swamp_town_guard_n_4;
 		screen_text = "Oh dear, don't tell me the sulfur tunnels have overflowed into the swamp again. It sure smells like it, though I've never seen the murk turn such a funny color before.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04E000FD;
@@ -417,7 +435,7 @@
 {
 	[text*]	//40 - 42
 	{
-
+		sample = s_v_xp_swamp_town_guard_s_1;
 		screen_text = "You'll find this area to your liking, I'll bet. Keep your eyes open and your weapons readied, and I'm sure you'll make it through the swamps and forest ahead to the south just fine.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04E002E5;
@@ -427,7 +445,7 @@
 {
 	[text*] //level 39 or lower
 	{
-
+		sample = s_v_xp_swamp_town_guard_s_2;
 		screen_text = "Hahaha, you aren't seriously considering traveling into the swamps, as inexperienced as you clearly are, are you? I don't know what you're doing in these parts, but I highly suggest you rethink it before you die, or worse, dirty up that pretty armor of yours!";
 		button_1_text = "Directions";
        	button_1_value = d_0x04E002E5;
@@ -437,7 +455,7 @@
 {
 	[text*]	//level 43+
 	{
-
+		sample = s_v_xp_swamp_town_guard_s_3;
 		screen_text = "Out for a bit of slashing practice, are you? You won't find much worthy prey out here, I'm afraid. The critters are smarter than you think -- they'll not likely leave the murk to pursue one so highly experienced as yourself.";
 		button_1_text = "Directions";
        	button_1_value = d_0x04E002E5;
@@ -447,7 +465,7 @@
 {
 	[text*]
 	{
-		
+		sample = s_v_xp_swamp_town_guard_s_4;
 		screen_text = "Phew! I thought swamp gas stank something awful, but this is far worse!";
 		button_1_text = "Directions";
        		button_1_value = d_0x04E002E5;
@@ -458,7 +476,7 @@
 {
 	[text*]	//29 - 31
 	{
-
+		sample = s_v_xp_swamp_town_guard_e_1;
 		screen_text = "There's a whole lot of swamp between here and Elddim to the east. If you keep your armor clean, you should be able to hold off the mold until you get to drier parts.";
 		button_1_text = "Directions";
        		button_1_value = d_0x04E00313;
@@ -468,7 +486,7 @@
 {
 	[text*] //level 28 or lower
 	{
-
+		sample = s_v_xp_swamp_town_guard_e_2;
 		screen_text = "Hahaha, you aren't seriously considering traveling into the swamps, as inexperienced as you clearly are, are you? I don't know what you're doing in these parts, but I highly suggest you rethink it before you die, or worse, dirty up that pretty armor of yours!";
 		button_1_text = "Directions";
        	button_1_value = d_0x04E00313;
@@ -478,7 +496,7 @@
 {
 	[text*]	//level 32+
 	{
-
+		sample = s_v_xp_swamp_town_guard_e_3;
 		screen_text = "Out for a bit of slashing practice, are you? You won't find much worthy prey out here, I'm afraid. The critters are smarter than you think -- they'll not likely leave the murk to pursue one so highly experienced as yourself.";
 		button_1_text = "Directions";
        	button_1_value = d_0x04E00313;
@@ -488,7 +506,7 @@
 {
 	[text*]
 	{
-		
+		sample = s_v_xp_swamp_town_guard_e_4;
 		screen_text = "Seems there's always something gone wrong wherever I go. First it was famine in Quillrabe, then flooding in Hiroth, and now brimstone on the wind. What disaster will we see next, I wonder?";
 		button_1_text = "Directions";
        		button_1_value = d_0x04E00313;
@@ -499,7 +517,7 @@
 {
 	[text*]	//35 - 37
 	{
-
+		sample = s_v_xp_swamp_town_guard_sw_1;
 		screen_text = "Heading into the Goblin Warrens, eh? Best take care, those little green vermin have been rather uppity of late. They'd just as soon kill you as trade with you, but you look like the sort of traveller with enough wits to keep your head on your shoulders.";
 		
 	}
@@ -508,7 +526,7 @@
 {
 	[text*] //level 34 or lower
 	{
-
+		sample = s_v_xp_swamp_town_guard_sw_2;
 		screen_text = "Hahaha, you aren't seriously considering traveling into the Goblin Warrens, as inexperienced as you clearly are, are you? I don't know what you're doing in these parts, but I highly suggest you rethink it before you die, or worse, dirty up that pretty armor of yours!";
 		
 	}
@@ -517,7 +535,7 @@
 {
 	[text*]	//level 38+
 	{
-
+		sample = s_v_xp_swamp_town_guard_sw_3;
 		screen_text = "Out for a bit of slashing practice, are you? You won't find much worthy prey out here, I'm afraid. The critters are smarter than you think -- they'll not likely leave the murk to pursue one so highly experienced as yourself.";
 		
 	}
@@ -526,7 +544,7 @@
 {
 	[text*]
 	{
-		
+		sample = s_v_xp_swamp_town_guard_sw_4;
 		screen_text = "Those little green poo-eaters are behind this foul weather, mark my words! The Legion should've run them out of Gonsiir when we had a chance instead of letting them spread all the way down here on the Utraean Peninsula.";
 		
 	}
