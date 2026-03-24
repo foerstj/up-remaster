@@ -28,6 +28,10 @@ if not "%mode%"=="light" (
 )
 endlocal
 
+set author=Johannes Förstner
+set title=%map_cs%
+set copyright=GPG 2002
+
 :: Compile map file
 rmdir /S /Q "%tmp%\Bits"
 robocopy "%bits%\world\maps\%map%" "%tmp%\Bits\world\maps\%map%" /E
@@ -41,7 +45,7 @@ if "%mode%"=="release" (
 )
 endlocal
 popd
-"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Maps\%map_cs%.dsmap" -copyright "GPG 2002" -title "%map_cs%" -author "Johannes Förstner"
+"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Maps\%map_cs%.dsmap" -copyright "%copyright%" -title "%title%" -author "%author%"
 if %errorlevel% neq 0 pause
 
 :: Compile main resource file
