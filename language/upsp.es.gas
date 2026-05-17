@@ -1,15 +1,15 @@
-[t:0x0407,n:text]
+[t:0x0c0a,n:text]
 {
     // Base
     [0x0000]
     {
         from = "Utraean Peninsula (revisited / single-player)";
-        to = "Halbinsel Uträa (überarbeitet / Einzelspieler)";
+        to = "";
     }
     [0x0000]
     {
         from = "- The Eight Stones of Utrae -\nA campaign amidst the southwestern ruins of the Empire";
-        to = "- Die acht Steine von Uträa -\nEine Kampagne in den südwestlichen Ruinen des Reichs";
+        to = "";
     }
 
     // Mule merchant conversations
@@ -22,69 +22,69 @@
     [0x0000]
     {
         from = "I still got ole Plodder, if you're interested.";
-        to = "Den Maulesel - Schlurfer - hab' ich noch, wie sieht's aus?";
+        to = "";
     }
     // Fallraen
     [0x0000]
     {
         from = "Here to buy a mule, are you? You want a nice docile beastie you can leave out in the rain, pack a house-worth of stuff onto its back, and that doesn't try to eat you as soon as it gets hungry? Hah! It's no wonder we went out of the sodding Furok business! Do me a favor: take one of these worthless mules I got in trade for its equal in gold, and I'll be one step closer to getting out of this blighted peninsula for good.";
-        to = "Ihr wollt ein Maultier kaufen? Ein nettes, zahmes Tierchen, das man im Regen stehen lassen und mit 'ner Wagenladung voll packen kann und nur füttert, wenn's einem grade so passt? Ha! Kein Wunder, dass wir keine Furoks mehr verkaufen! Tut mir 'n Gefallen: Nehmt eines dieser wertlosen Viecher, für das ich ein Vermögen bezahlt habe, damit ich diese vermaledeite Halbinsel bald verlassen kann.";
+        to = "";
     }
     [0x0000]
     {
         from = "If you're looking for another mule, you're out of luck. I've sold the last of them, and the Shivering Furok Corral is now history. Good riddance!";
-        to = "Wenn Ihr noch ein Maultier braucht, habt Ihr Pech gehabt. Ich hab das letzte verkauft. Der Hof zum bibbernden Furok ist Geschichte. Endlich!";
+        to = "";
     }
     // Meren
     [0x0000]
     {
         from = "Hello, welcome to the livery stable of Meren! Would you be interested in my stalwart mules?";
-        to = "Hallo, willkommen im Mietstall von Meren! Wäret Ihr an meinen tüchtigen Maultieren interessiert?";
+        to = "";
     }
     [0x0000]
     {
         from = "Hey, check out that bush! I dare you to touch it.";
-        to = "He, seht Euch diesen Busch an! Versucht doch mal, ihn zu berühren.";
+        to = "";
     }
     [0x0000]
     {
         from = "I hope Beauty hasn't given you too much trouble. How 'bout making it a pair? I still got Beast, if you're interested.";
-        to = "Hoffe, Schönheit war nicht zu schlimm. Wie wär's mit 'nem Paar? Bestie hab' ich noch, wenn Ihr wollt.";
+        to = "";
     }
     [0x0000]
     {
         from = "I still got ole Beauty and Beast, if you're interested.";
-        to = "Die zwei Maulesel - Schönheit und Bestie - hab' ich noch, wie sieht's aus?";
+        to = "";
     }
     // Hiroth
     [0x0000]
     {
         from = "Welcome to Hiroth! Are you looking for mules? I've got one here, and you can buy another one just on the other side of the lake.";
-        to = "Willkommen in Hiroth! Seid Ihr auf der Suche nach Mauleseln? Ich habe einen hier, und gleich auf der anderen Seite des Sees könnt Ihr auch noch einen kaufen.";
+        to = "";
     }
     [0x0000]
     {
         from = "Are you interested in buying a packmule? This one here is very docile, I assure you.";
-        to = "Seid Ihr an einem Maulesel interessiert? Dieser hier ist sehr gehorsam, das versichere ich Euch.";
+        to = "";
     }
 
     // Mule names
     [0x0000]
     {
         from = "Plodder";
-        to = "Schlurfer";
+        to = "";
     }
     [0x0000]
     {
         from = "Scuttling";
-        to = "Hoppel";
+        to = "";
     }
 
     // Signs
     [0x0000]
     {
         from = "Shivering Furok Corral";
-        to = "Hof zum bibbernden Furok";
+        to = "";
     }
 
     // Companion conversations
@@ -93,17 +93,17 @@
     [0x0000]
     {
         from = "I am the scribe Kerstin. Another day of translating ancient Utraean stone tablets for the Historical Society and I'll go as mad as old Lord Hovart. I'd rather go out to the Ancient Crypt and find the Townstone, but Kelti says it's not my job. Nonsense! The crypt is just to the east of here. Shall we travel together?";
-        to = "Ich bin Schreiberin Kerstin. Noch einen Tag lang antike uträische Steintafeln für die Gesellschaft für uträische Geschichte übersetzen, und ich werde so wahnsinnig wie der alte Fürst Hovart. Ich würde viel lieber raus zur Alten Gruft gehen und den Townstone-Stein finden, aber Kelti sagt das sei nicht meine Aufgabe. So ein Quatsch! Die Gruft ist gleich östlich von hier. Wollen wir gemeinsam reisen?";
+        to = "";
     }
     [0x0000]
     {
         from = "I need a little gold to quit this place though.";
-        to = "Ich benötige allerdings ein wenig Gold um diesen Ort zu verlassen.";
+        to = "";
     }
     [0x0000]
     {
         from = "The crypt is just to the east of here. Shall we travel together?";
-        to = "Die Gruft ist gleich östlich von hier. Wollen wir gemeinsam reisen?";
+        to = "";
     }
 
     // Martin / Gyorn
@@ -115,339 +115,339 @@
     [0x0000]
     {
         from = "Aye, I knew you'd be the right sort for a trek! Well met, friend!";
-        to = "Ich wusste, dass Ihr der Richtige für so etwas seid! Gut so, Freund!";
+        to = "";
     }
     [0x0000]
     {
         from = "I owe some money to those adventurers in the inn though...";
-        to = "Ich schulde diesen Abenteurern in der Taverne allerdings etwas Geld...";
+        to = "";
     }
     [0x0000]
     {
         from = "Bah, just as well. It's heroics that's called for now, and I've no business dragging you into Elddim's mess. Good luck to ye.";
-        to = "Dann eben nicht. Hier brauchen wir einen Helden, und es liegt mir fern, Euch in den Schlamassel um Elddim hinein zu ziehen. Viel Glück Euch.";
+        to = "";
     }
     [0x0000]
     {
         from = "If you could pay me out, we can leave this place together! What do you think?";
-        to = "Wenn Ihr mich auszahlen könntet, könnten wir diesen Ort gemeinsam verlassen! Was meint Ihr?";
+        to = "";
     }
     [0x0000]
     {
         from = "Back for Martin are ya? I'd be glad to follow ya, if you'd like the company. Nothing worse than following a long road and not having a soul to talk to. Shall we?";
-        to = "Wollt Ihr Martin doch mitnehmen? Ich würde gern mitkommen, wenn Ihr Gesellschaft braucht. Es gibt nichts Schlimmeres, als einen langen Weg ohne Gefährten zu gehen. Wollen wir?";
+        to = "";
     }
 
     // Marshwind / Zed
     [0x0000]
     {
         from = "Greetings! I am Marshwind the sorcerer, and as of late, Marshwind the bored. I came to see this peninsula full of ancient Utraean ruins and artifacts, and I ended up in this wretched village. If you can use a sorcerer, take me with you. I'd certainly like to see some excitement somewhere on the peninsula. Normally, I charge a fortune for my services, but I'd be willing to take somewhat less just to get out of this putrid place. Is my fee acceptable?";
-        to = "Seid gegrüßt! Ich bin Marshwind der Zauberer und seit kurzem auch Marshwind der Gelangweilte. Ich kam, um diese Halbinsel voller antiker uträischer Ruinen und Artefakte zu sehen, und bin in diesem elenden Dorf gelandet. Normalerweise kosten meine Dienste ein Vermögen, aber um hier rauszukommen, wäre ich sogar bereit, meinen Preis zu verringern. Was haltet Ihr von meinem Angebot?";
+        to = "";
     }
 
     // Lisa / Naidi
     [0x0000]
     {
         from = "Sorry for looking such a mess. I took an arrow yesterday walking through the Iliarth Valley, but I'm not really all that injured. Kelti's got me patched up, and I'm ready to get back into the fight again if someone will just believe in me. If you need a good archer to escort you through the mess beyond Elddim, I'd be glad to help. I just need some gold to settle my healing bill. Interested?";
-        to = "Verzeiht mein Aussehen. Bei einem Spaziergang im Iliarth-Tal gestern Abend traf mich ein Pfeil, aber ich bin nicht schwer verletzt. Kelti hat mich zusammengeflickt, und ich bin bereit, wieder zu kämpfen, wenn nur jemand an mich glauben wollte. Wenn Ihr eine gute Bogenschützin braucht, um Euch durch das Chaos außerhalb Elddim zu bringen, kann ich Euch helfen. Ich brauche nur etwas Gold, um die Heilung zu bezahlen. Wie wär's?";
+        to = "";
     }
     [0x0000]
     {
         from = "Lisa the archer is at your service. You just tell me where we're going, and I'll do everything I can to get us there alive!";
-        to = "Bogenschützin Lisa zu Euren Diensten. Sagt mir einfach, wohin es geht, und ich tue alles in meiner Macht, um uns lebendig dort hin zu bringen!";
+        to = "";
     }
     [0x0000]
     {
         from = "If you need a good archer to escort you through the mess beyond Elddim, I'd be glad to help. I just need some gold to settle my healing bill. Interested?";
-        to = "Wenn Ihr eine gute Bogenschützin braucht, um Euch durch das Chaos außerhalb Elddim zu bringen, kann ich Euch helfen. Ich brauche nur etwas Gold, um die Heilung zu bezahlen. Wie wär's?";
+        to = "";
     }
 
     // Rach / Rusk
     [0x0000]
     {
         from = "Hey! Watch who you're kickin'! I've got a sword and a mind to use it--and I would, too, if I didn't have this bloody hangover. Ach. People keep bothering me with some damn nonsense about saving the village. But you look the sort that'll pay for my services. For a clink of gold you'll have the best sword slinger around. Deal?";
-        to = "He! Passt mal 'n bisschen auf, wen Ihr da tretet! Ich hab 'n Schwert und kanns benutzen - wenn ich nur nicht den verteufelten Kater hätte. Ouhhh. Ständig nervt mich einer und erzählt mir irgendwelchen Unsinn von wegen Dörfer retten. Aber Ihr ... Ihr seht aus, als könntet Ihr für meine Arbeit bezahlen. Für 'ne Handvoll Gold kriegt Ihr den besten Schwertkämpfer dens gibt. Einverstanden?";
+        to = "";
     }
     [0x0000]
     {
         from = "Well, your head was in the right place, but it doesn't appear you've got enough gold on you. You just come find old Rach when you need the best swordsman on the Peninsula.";
-        to = "Na, Ihr habt die richtigen Ideen, aber wohl nicht genug Gold. Kommt einfach den alten Rach suchen, wenn Ihr den besten Schwertkämpfer der ganzen Halbinsel braucht.";
+        to = "";
     }
     [0x0000]
     {
         from = "You're just the luckiest sod on earth that someone hasn't come along and hired me. You want me back, I'll come along. But you'd best learn to show more appreciation to ole Rach this time around!";
-        to = "Habt 'n verdammtes Glück, dass mich noch keiner angeheuert hat. Kann gern wieder mitkommen. Aber mehr Anerkennung wär' diesmal angebracht!";
+        to = "";
     }
 
     // Bjoern / Gloern
     [0x0000]
     {
         from = "This is a bad business, but we're no' the only ones in it! These attacks of Kroog and whatnot have gotten out of hand since the Queen died, and there'll be a blasted goblin behind this or I'm a mule's father! If at least Miner's Haven was ours again. I could truly use a hand in getting it free, if yer willing.";
-        to = "Übel, das hier. Sind aber nicht nur wir von betroffen! Diese Angriffe der Krugs und so haben überhand genommen seit die Königin gestorben ist. Ha! Wenn da kein Goblin hinter steckt, fress' ich 'n Maultier! Wenn doch wenigstens Bergmanns Zuflucht wieder unser wäre. Allein krieg ich das nicht befreit. Also, wie wär's?";
+        to = "";
     }
     [0x0000]
     {
         from = "Let's get to it! There's a score o' Krug who need to re-learn who rules the Crystwind Mines!";
-        to = "Los dann! Da muss 'n ganzer Haufen Krugs dran erinnert werden, wem die Minen von Crystwind gehören!";
+        to = "";
     }
     [0x0000]
     {
         from = "Well here's the thing, I lost a game or two of cards against this damn Lescanzi in the inn, and I'm afraid if I just leave here without paying he'll come and find me, so...";
-        to = "Also die Sache ist die, ich hab ein oder zwei Runden Karten gegen diesen verdammten Lescanzi in der Taverne verloren, und ich fürchte wenn ich hier einfach verschwinde ohne zu bezahlen wird er kommen und mich finden, also...";
+        to = "";
     }
     [0x0000]
     {
         from = "Ach, some bloody gratitude for saving your hide! Well now, we'll jus see how well ye do without Bjoern!";
-        to = "Dankbarkeit! Nie gehört, was? Und dafür hab' ich Euch das Leben gerettet! Naaaa, da woll'n wir doch mal sehen, wie weit Ihr ohne Bjoern kommt!";
+        to = "";
     }
     [0x0000]
     {
         from = "I knew it! Didn't get very far without Bjoern, did ye? We shoulda fight together, not aloon! What's say we fight this evil together?";
-        to = "Wusst' ich's doch! Ohne Bjoern kommt Ihr nicht weit, was? Man muss zusammen kämpfen, nicht allein! Was isses, wir zwei gegen das Böse?!";
+        to = "";
     }
 
     // Kraul / Kroduk
     [0x0000]
     {
         from = "Chieftain tell Kraul 'bring caravan safe to Utraean Peninsula.' I bring to Elddim... then mule-eating Krug attack town! Driver steals wagon, driver takes Kraul gold, and driver runs away. Kraul tracks to Fallraen, but cannot chase further. Kraul help you if you help him. Kraul good at smashing, beating, crushing... anything! You like?";
-        to = "Häuptling sagen Kraul bringen Karawane sicher in Halbinsel Uträa. Ich bringen nach Elddim ... dann Maultierfresser-Krugs brennen Stadt! Fahrer stehlen Wagen, nehmen Gold von Kraul und laufen weg. Kraul folgen nach Fallraen, aber nicht weiter folgen können. Kraul helfen dir, wenn du Kraul helfen. Kraul gut in Schlagen, Hauen, Machen kaputt ... alles! Du mögen?";
+        to = "";
     }
     [0x0000]
     {
         from = "Aha! You make perfect, excellent choice! We have great fun pounding Krug, saving peninsula!";
-        to = "Aha! Du machen gute, sehr gute Wahl! Wir haben viel Spaß schlagen auf Krugs, retten von Halbinsel!";
+        to = "";
     }
     [0x0000]
     {
         from = "You think about it. Kraul will wait, be here when you're ready for big, strapping warrior, eh? Good, good. See you later.";
-        to = "Du denken nach. Kraul warten, sein hier wenn du bereit für groß, stark Krieger, ja? Gut, gut! Wir treffen später.";
+        to = "";
     }
     [0x0000]
     {
         from = "What, you no like Kraul anymore? I good friend, smash enemies dead. You walk, cool off, get good sense back in head. Kraul will wait.";
-        to = "Was, du nicht mehr mögen Kraul? Ich gut Freund, schlagen Feinde tot. Du gehen, abkühlen, nachdenken. Kraul warten hier.";
+        to = "";
     }
     [0x0000]
     {
         from = "Come, we have fun, we crack heads, Kraul and little friend make great names in songs of heroes, eh?";
-        to = "Los. Wir viel Spaß haben, Köpfe spalten! Kraul und kleiner Freund klingen gut in Heldenlieder!";
+        to = "";
     }
     [0x0000]
     {
         from = "Come, we have fun, we crack heads, Kraul and little friend make great names in songs of heroes, eh? Let's go together again. Sound good?";
-        to = "Los. Wir viel Spaß haben, Köpfe spalten! Kraul und kleiner Freund klingen gut in Heldenlieder! Gehen zusammen wieder! Gut klingen?";
+        to = "";
     }
 
     // Pyros / Lorun
     [0x0000]
     {
         from = "If the priest's apprentice sees fit to send you oot on a madman's quest, I should at least see you've a chance at living through it. I'm the best mage in these parts and I may be old, but I was roasting goblins with mage fire when yer daddy's daddy was a whelp! If you've the gold so's I kin settle my accounts here, we can get moving afore you can say bless the Crystwind Mines. Will ye have me along?";
-        to = "Wenn der Priesterlehrling meint, er muss Euch auf eine Selbstmordmission schicken, will ich schauen, wie ich Euch helfen kann. Ich bin der beste Magier der Gegend. Zwar bin ich alt, aber ich habe schon Goblins mit magischem Feuer geröstet, als Euer Großvater ein Junge war! Wenn Ihr das Gold habt, um meine Rechnungen hier zu begleichen, können wir gehen, bevor Ihr Minen von Crystwind sagen könnt. Na, wie wär's?";
+        to = "";
     }
     [0x0000]
     {
         from = "I'd be glad to join your company, but I can't do it for free. I've financial matters for the Legion to attend to here in Fallraen, but if you can help make up far some of the gold I lost to brigands on the way here, I'd be glad to toss in with your lot!";
-        to = "Begleiten würde ich Euch gern, aber umsonst kann ich das nicht tun. Ich habe hier in Fallraen Finanzangelegenheiten der Legion zu regeln. Doch wenn Ihr einen Teil des Goldes ersetzen wollt, das mir auf dem Weg geraubt wurde, will ich Euch mit Freuden weiterhelfen!";
+        to = "";
     }
     [0x0000]
     {
         from = "That's it, then? Yer joost going to march right up without an apology far abandoning me from before? Not soo much as an explanation? Ach, these new kidlings! If yer done fooling about now, I'd like to get back to our business. We've a peninsula to hold together!";
-        to = "Das war's? Ihr kommt einfach daher, ohne auch nur eine Entschuldigung dafür, dass Ihr mich im Stich gelassen habt? Nicht mal eine Erklärung? Oh, diese Jugend von heute! Wenn Ihr jetzt mit dem Unsinn fertig seid, können wir uns wieder an die Arbeit machen. Wir haben eine Halbinsel zu retten!";
+        to = "";
     }
 
     // Flintbeard / Merik
     [0x0000]
     {
         from = "I'm so glad to see you coming this way! A blasted Furok ate my staff, and so I've been stuck here with a tracker and a quarrier for a fortnight now. Let's go to Meren together, shall we?";
-        to = "Ich freue mich, Euch hier auf dem Weg zu sehen! Ein verfluchter Furok hat meinen Stab gefressen, und so sitze ich hier schon seit zwei Wochen mit einem Fährtenleser und einem Steinbruchbetreiber fest. Wollen wir zusammen nach Meren gehen?";
+        to = "";
     }
     [0x0000]
     {
         from = "An excellent and wise choice. Now, let's have a stroll through the Crystal Caverns, shall we?";
-        to = "Eine gute und weise Entscheidung. Und jetzt spazieren wir durch die Kristallhöhlen, ja?";
+        to = "";
     }
     [0x0000]
     {
         from = "You need more money...";
-        to = "Ihr benötigt mehr Geld...";
+        to = "";
     }
     [0x0000]
     {
         from = "Don't you see what's happening? The very fate of this peninsula hangs in the balance! If you don't have the stomach to help me save our people, I'll have to find someone who does.";
-        to = "Seht Ihr denn nicht, was hier geschieht? Das Schicksal der ganzen Halbinsel steht auf dem Spiel! Wenn Ihr nicht den Mut habt, mir zu helfen, unser Volk zu retten, muss ich andere finden.";
+        to = "";
     }
     [0x0000]
     {
         from = "What?! You've the gall to dismiss the Grand Mage of the 2nd Legion? I certainly hope you've no ambitions greater than being a mule-dung seller, child, because that's the most you can hope for after today! Off with you!";
-        to = "Wie?! Ihr habt die Dreistigkeit, mich, den Großmagier der zweiten Legion, zurückzulassen? Ich hoffe, Eure Ziele gehen nicht über das Verkaufen von Maultierdung hinaus - mehr könnt Ihr jetzt nicht mehr erhoffen! Fort mit Euch!";
+        to = "";
     }
     [0x0000]
     {
         from = "Forgive my earlier outburst. I've many things on my mind and am afraid I've lost most of my social graces over this affair. Also I'm not actually the Grand Mage of the 2nd Legion. If you can forgive an intolerable old man's complaints, I could well use your assistance. I expect there are a few things I could do for you as well.";
-        to = "Verzeiht meinen Ausbruch von vorhin. Ich habe viele Dinge im Kopf und fürchte, über diese Angelegenheit ist mir die Höflichkeit abhanden gekommen. Außerdem bin ich nicht wirklich der Großmagier der zweiten Legion. Bitte vergebt einem unerträglichen alten Mann; ich könnte Eure Hilfe gebrauchen. Ich nehme an, ich könnte auch einiges für Euch tun.";
+        to = "";
     }
 
     // Nightshade / Phaedriel
     [0x0000]
     {
         from = "I am ruined, most horribly ruined! For six years I have poured all my wealth and labors into planning a contest of skill, a challenge to find the greatest living archer in the known lands. But on the very eve of our contest, disaster! Our treasury stolen by Bandits! Our finest prizes seized! My bow and skills are all I have left in the world to redeem my tarnished name and reputation. I have followed the Bandits this far, but cannot go further without funds to replenish my supplies. If you might spare some gold, I should be glad to lend you my talents while I search for my lost treasures.";
-        to = "Ich bin ruiniert, völlig ruiniert! Sechs Jahre lang habe ich all mein Geld und meine Arbeit in die Organisation eines Wettkampfs gesteckt, um den besten Bogenschützen der bekannten Welt zu finden. Und dann ... am Vorabend ... das Ende! Unser ganzer Schatz - von Räubern geraubt! Unsere schönsten Preise - weg! Ich habe nur noch Pfeile, Bogen und meine Fähigkeiten, um meinen Ruf und meinen Namen wiederherzustellen. Bis hierhin bin ich den Räubern gefolgt; aber ohne Gold, um meine Vorräte aufzustocken, komme ich nicht weiter. Wenn Ihr ein bisschen Gold entbehren könntet, will ich mein Können auf der Suche nach den verlorenen Schätzen gern in Euren Dienst stellen.";
+        to = "";
     }
     [0x0000]
     {
         from = "The bow and honor of Nightshade are yours to command, good friend. I am glad to join your fellowship. Now let's kick some Bandit ass!";
-        to = "Bogen und Ehre von Nightshade stehen Euch zu Diensten, Freund. Ich freue mich, zu Euch zu stoßen. Treten wir den Räubern in den Arsch!";
+        to = "";
     }
     [0x0000]
     {
         from = "Pff then not!";
-        to = "Dann halt nicht!";
+        to = "";
     }
     [0x0000]
     {
         from = "Wait, what?";
-        to = "Bitte, was?";
+        to = "";
     }
 
     // Myros / Andiemus
     [0x0000]
     {
         from = "You cannot know how glad I am to see fellow heroes! It seems this land is overrun with monsters! I was following the gold what's been stolen from Nightshade's archery tournament when I come to this place. Look, I know I'm young fer a mage, but I knows me a spell or two, and I'd be willing to help you out fer some gold. I promise I knows me stuff. I jus needs someone that can watch me back.";
-        to = "Das Antlitz eines Helden! Welche eine Freude! Mir wollte scheinen, es gäbe nur noch Ungeheuer! Ich kam auf der Suche nach dem Gold, das bei Nightshades Bogenschützenturnier gestohlen wurde, hierher. Als Magier mag ich jung für Euch erscheinen, doch Zaubersprüche kenn' ich wohl. Für etwas Gold will ich Euch gern' helfen. Mein Handwerk beherrsche ich, nur muss mir jemand den Rücken freihalten.";
+        to = "";
     }
     [0x0000]
     {
         from = "By the stars! Maybe me luck is a' changin'! Myros, apprentice mage, at yer service.";
-        to = "Bei den Sternen! Mein Glück scheint sich zu wenden! Myros, Zauberlehrling, zu Euren Diensten.";
+        to = "";
     }
     [0x0000]
     {
         from = "I've lost every bit o' my sorcerin' gear and I didn't recover Nightshade's gold. I need sumethin' I can take back to my father Radicus to shows that I'm not a complete mooncalf. If you don't have the gold I'm askin' for now, then you can finds me later.";
-        to = "Meine magischen Sachen - alle weg! Und das Gold von Nightshade habe ich auch nicht. Ich brauche irgendetwas zum Vorzeigen für meinen Vater Radicus - sonst hält er mich für einen völligen Trottel. Wenn Ihr das geforderte Gold nicht habt, könnt Ihr gern später wiederkommen.";
+        to = "";
     }
     [0x0000]
     {
         from = "For the respect of Azunai, you can't be serious! I'll die out there alone! As soon as I'm out o' the camp I'll get clomped on the head again, I just know it!";
-        to = "Im Namen von Azunai! Das kann nicht Euer Ernst sein! Allein dort draußen - das wäre mein Ende! Bestimmt beziehe ich wieder Prügel, sobald die Zelte von Lang außer Sichtweite sind!";
+        to = "";
     }
 
     // Hjort / Rhut
     [0x0000]
     {
         from = "So the Krug have taken this worthless bunch of mines, what of it, eh? 'Ave any of us found so much as a gold nugget since this mess started? Not bloody likely! I'm sick o' bleeding for spit! Tell you what. You come up with a nice sum, I'll show this dunghill my backside, and Hjort will work for you from now on. What do you think?";
-        to = "Haben wir also diese wertlosen Minen zurückerobert, ja und? Hat einer von Euch auch nur ein einziges Goldnugget gefunden, seit alles angefangen hat? Wohl kaum! Ich hab' die Schnauze voll! Wisst Ihr was ... kratzt 'n bisschen Gold zusammen, dann können die hier mich alle mal, und Hjort arbeitet dann für Euch. Na?";
+        to = "";
     }
     [0x0000]
     {
         from = "I think I'm going to likes workin' for you. Good enough! Hjort's your man!";
-        to = "Ich glaub', bei Euch wird's mir gefallen. Geht klar. Hjort ist Euer Mann!";
+        to = "";
     }
     [0x0000]
     {
         from = "Fine, fine. You bloody do whatever you bloody well want to do while the rest of us slave for the mine owners! I hopes you rot!";
-        to = "Gut, gut. Könnt verdammt noch mal machen, was Ihr verdammt noch mal wollt, seid ja kein Sklave der Minenbesitzer wie wir! Könnt verschimmeln dabei!";
+        to = "";
     }
     [0x0000]
     {
         from = "Well, well, if it isn't the independent adventurer come back to visit Hjortie. You think about what I said before? My price will get you a superb axe-wielding, sword-slinging, death machine, it will.";
-        to = "Sieh mal einer an, der unabhängige Abenteurer will den kleinen Hjort wieder. Habt Ihr Euch die Sache überlegt? Für den Preis kriegt Ihr 'ne grandiose Kampfmaschine komplett mit Axt und Schwert, jawoll.";
+        to = "";
     }
     [0x0000]
     {
         from = "What, are you mad? You want Hjort to come with you again? Not unless you've got more gold for me I won't.";
-        to = "Was is', seid Ihr wahnsinnig? Ihr wollt, dass Hjort wieder mitkommt? Aber nich' ohne 'n bisschen mehr Gold, oh nein.";
+        to = "";
     }
 
     // Zarkh / Boryev
     [0x0000]
     {
         from = "Zhese fools do not know a friend when zhey see him! I turn my spells against zhe Droog, but zhese Dwarves do not trust me because I am traveler, outsider! I know zhese Droog haf my cousin Lisbeth in a fortress in the Iliarth Canyon. I must know she is well. Perhaps if I come with you, they shall let me in, eh? I shall be sorcerer for you cheap. Zhat goot?";
-        to = "Dummköpfe allesamt! Kennen kein' Freund, wenn's einen seh'n! Ein Zauber nach die andere ich mach' gegen die Droog, un was machen Zwerge? Angst haben sie, weil ich bin von fahrendem Volk, von draußen! Ich weiß, haben sie mein Base Lisbeth in der Iliarth-Schlucht. Muss ich wissen, ob ihr gut geht. Vielleicht wenn ich komm' mit Euch, sie lassen mich rein? Ich dann für Euch Zauberei mach' billig. Gut?";
+        to = "";
     }
     [0x0000]
     {
         from = "You are good friend to Zarkh. I shall not forget. We go into zhe fortress together and see what we shall see!";
-        to = "Ihr zeid guter Freund für Zarkh. Ich das werde nicht vergessen. Wir geh'n in Festung zusammen und schau'n, was zu schau'n ist!";
+        to = "";
     }
     [0x0000]
     {
         from = "Zhe Dwarves are watching. Zhey will expect to see an exchange of money, else zhey will not believe you truly hire Zarkh. When you have enough money, we try again.";
-        to = "Zwerge. Schauen uns zu. Müssen seh'n, dass Gold gibt, sonst glauben's nicht, dass Ihr Auftrag für Zarkh habt. Wenn Ihr habt genug Gold, wir probieren's wieder.";
+        to = "";
     }
     [0x0000]
     {
         from = "Go then! If you do not trust Zarkh, I shall find someone else who needs zhe best sorcerer zhe Travelers hef to offer!";
-        to = "Geht doch! Wenn Ihr nicht traut Zarkh, Zarkh findet andere, was brauchen beste Magier, den fahrendes Volk hat!";
+        to = "";
     }
     [0x0000]
     {
         from = "If you are satisfied with our bargain, zhen so is Zarkh! You will be well remembered by zhe Travelers of zhis peninsula!";
-        to = "Wenn Abmachung Euch recht, auch Zarkh ist zufrieden! Fahrendes Volk von diese Halbinsel wird denken gut von Euch!";
+        to = "";
     }
     [0x0000]
     {
         from = "Perhaps you hef zhought about Zarkh's problem? A little gold will buy you an excellent sorcerer, and all you must do in return is walk him through zhe gates of zhe Droog fortress in the Iliarth Canyon.";
-        to = "Vielleicht Ihr habt nachgedacht über Angebot von Zarkh? Bisschen Gold nur und Ihr kriegt guuten Magier. Ihr müsst nur bringen Zarkh durch Tore von Festung der Droog in Iliarth-Schlucht.";
+        to = "";
     }
 
     // Lisbeth / Sikra
     [0x0000]
     {
         from = "Ah, I have forseen your arrival. The Droog have been instructed to hold me here, but I don't think they even know why. They seem to fear me for reasons I cannot fathom, but then again I am Lisbeth, the daughter of Zong. I am... Traveler.";
-        to = "Ah, Euer Kommen habe ich vorhergesehen. Die Droog haben den Auftrag, mich hier festzuhalten, wissen aber wohl nicht, weshalb. Sie scheinen mich zu fürchten, ich weiß nicht, warum. Nun ja, ich bin Lisbeth, Tochter des Zong. Ich bin ... vom fahrenden Volk.";
+        to = "";
     }
     [0x0000]
     {
         from = "On behalf of my father Zong, the Brotherhood of Travelers for which we toil, and the Great Road upon which we journey, I offer humble thanks for my rescue. I have naught else to offer except my skills, but I shall pledge them til the completion of your quest, if you so desire. May I join you?";
-        to = "Im Namen meines Vaters Zong, der fahrenden Bruderschaft, der wir dienen, und des Großen Weges, auf dem wir reisen, danke ich Euch für meine Rettung. Ich habe nur meine Fähigkeiten zu bieten, doch werde ich Euch damit bei der Erfüllung Eurer Aufgabe helfen, wenn Ihr dies wünscht. Darf ich mit Euch kommen?";
+        to = "";
     }
     [0x0000]
     {
         from = "To the completion of your quest, to the ends of the world, I now vow my loyalty to you, servant of the Historical Society! Let us begin our sacred work.";
-        to = "Bis zur Erfüllung Eurer Aufgabe, bis an die Enden der Welt schwöre ich Euch heute die Treue, Diener der Gesellschaft für uträische Geschichte! Beginnen wir unser heiliges Werk.";
+        to = "";
     }
     [0x0000]
     {
         from = "You have need of Lisbeth again? The honor would be mine if I might serve you further.";
-        to = "Soll Lisbeth Euch wieder dienen? Es wäre mir eine Ehre, könnte ich Euch weiter dienen.";
+        to = "";
     }
 
     // Hildr / Ulfgrim
     [0x0000]
     {
         from = "An age ago I fought with the bladdy 2nd Legion in the battle o' the Plains. These days I've no more trust for queen nor Legion any more than I do for Droog nor Traveler. All I trust is a handful o' gold. If you want me to fight for ye, you have ta 'earn' my trust!";
-        to = "Bleibt mir weg mit der gerechten Sache! Vor Urzeiten hab' ich mit der vermaledeiten zweiten Legion in der Schlacht der Ebenen gekämpft. Sicher, die Hüter des Tempels der dunklen Schwester hatten angefangen, aber was wir dort angerichtet haben, war Mord! Das waren Priester! Heute trau' ich König und Legion nicht mehr als Droogs und fahrendem Volk. Ich trau' nur noch einer Hand voll Gold. Wenn ich für Euch kämpfen soll, müsst Ihr Euch mein Vertrauen schon 'verdienen'!";
+        to = "";
     }
     [0x0000]
     {
         from = "That's doon then. I'll fight for yer cause as long as I'm able, but doon expect me to bow and scrape to any Legion types. The only authority I respect in this warld is my own!";
-        to = "Das wär's dann also. Ich kämpf' für Eure Sache, solang ich kann, aber katzbuckeln werd ich nicht vor Euch und denen aus der Legion. Ich bin meine oberste Autorität!";
+        to = "";
     }
     [0x0000]
     {
         from = "You've turned your back on Hildr before. That's a considerable lack o' respect to me. You'll pay me my standard fee plus a little extra for insulting my honor! What will it be?";
-        to = "Habt Euch ja schon mal von Hildr abgewandt. Finde, das lässt kräftig an Respekt fehlen. Standardhonorar plus Zulage für die Beleidigung meiner Ehre! Wie sieht's aus?";
+        to = "";
     }
 
     // Knight Mighell / Lord Bolingar
     [0x0000]
     {
         from = "By all the powers that be, a hero's face! The castle's overrun! The bloody Undead came up from below, but I don't know how. I fought them with my friends, but they've all joined their unholy ranks now... This formerly so proud town is busy just defending itself. Shall we join forces to fight them or go on separately?";
-        to = "Bei allem, was heilig ist! Ein freundliches Gesicht! Die Burg wurde gestürmt! Die verdammten Secks sind aus der Tiefe gekommen - keine Ahnung wie! Ich kämpfte gegen sie mit meinen Freunden, doch sie sind nun alle unter ihren unheiligen Reihen... Diese ehemals so stolze Stadt ist vollauf damit beschäftigt sich zu verteidigen. Wollen wir sie gemeinsam bekämpfen oder uns trennen?";
+        to = "";
     }
     [0x0000]
     {
         from = "Let's not stand about then! There's a castle full of undead to fight!";
-        to = "Stehen wir nicht untätig herum! Eine Burg voller untoter wartet auf uns!";
+        to = "";
     }
     [0x0000]
     {
         from = "Aye, we'll probably cover more territory alone, but watch out. Those Undead are thick as thieves throughout the castle.";
-        to = "Gewiss, so können wir mehr Orte durchsuchen. Aber nehmt Euch in Acht. Hier im Schloss wimmelt es nur so von Untoten.";
+        to = "";
     }
     [0x0000]
     {
         from = "We haven't time to be indecisive! Shall we free the castle together or not?";
-        to = "Wir haben keine Zeit für Zauderei. Sollen wir das Schloss gemeinsam befreien oder nicht?";
+        to = "";
     }
 }
