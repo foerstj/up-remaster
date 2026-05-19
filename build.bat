@@ -58,13 +58,15 @@ robocopy "%bits%\world\contentdb\templates\%map%" "%tmp%\Bits\world\contentdb\te
 "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Resources\%map_cs%.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
 if %errorlevel% neq 0 pause
 
-:: Compile German language resource file
+:: Compile language resource files
 setlocal EnableDelayedExpansion
 if not "%mode%"=="light" (
-  rmdir /S /Q "%tmp%\Bits"
-  robocopy "%bits%\language" "%tmp%\Bits\language" /E
-  "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Resources\%map_cs%.de.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
-  if !errorlevel! neq 0 pause
+  for %%x in (de es) do (
+    rmdir /S /Q "%tmp%\Bits"
+    robocopy "%bits%\language" "%tmp%\Bits\language" /S *.%%x.gas /S
+    "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Resources\%map_cs%.%%x.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
+    if !errorlevel! neq 0 pause
+  )
 )
 endlocal
 
