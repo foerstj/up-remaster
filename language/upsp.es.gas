@@ -242,7 +242,7 @@
     [0x0000]
     {
         from = "If the priest's apprentice sees fit to send you oot on a madman's quest, I should at least see you've a chance at living through it. I'm the best mage in these parts and I may be old, but I was roasting goblins with mage fire when yer daddy's daddy was a whelp! If you've the gold so's I kin settle my accounts here, we can get moving afore you can say bless the Crystwind Mines. Will ye have me along?";
-        to = "Si el aprendiz del sacerdote considera oportuno enviarte a una misión de locos, al menos debería asegurarme de que tengas alguna posibilidad de sobrevivir. Soy el mejor mago de estos lares y, aunque sea viejo, ¡ya estaba asando goblins con fuego mágico cuando tu abuelo era un niño! Si tienes el oro suficiente para que pueda saldar mis cuentas aquí, podemos partir antes de que puedas decir "benditas sean las Minas de Crystwind". ¿Me aceptarás?";
+        to = "Si el aprendiz del sacerdote considera oportuno enviarte a una misión de locos, al menos debería asegurarme de que tengas alguna posibilidad de sobrevivir. Soy el mejor mago de estos lares y, aunque sea viejo, ¡ya estaba asando goblins con fuego mágico cuando tu abuelo era un niño! Si tienes el oro suficiente para que pueda saldar mis cuentas aquí, podemos partir antes de que puedas decir 'benditas sean las Minas de Crystwind'. ¿Me aceptarás?";
     }
     [0x0000]
     {
