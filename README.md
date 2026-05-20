@@ -56,4 +56,6 @@ GasPy repo: https://github.com/foerstj/gaspy
 
 ## Attribution
 
+- Spanish translations by Nekurrot
+
 This map was created by Gas-Powered Games, not me. I'm just doing minor changes here.
