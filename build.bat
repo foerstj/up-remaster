@@ -63,7 +63,7 @@ setlocal EnableDelayedExpansion
 if not "%mode%"=="light" (
   for %%x in (de es) do (
     rmdir /S /Q "%tmp%\Bits"
-    robocopy "%bits%\language" "%tmp%\Bits\language" /S *.%%x.gas /S
+    robocopy "%bits%\language" "%tmp%\Bits\language" /S *.%%x.gas
     "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Resources\%map_cs%.%%x.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
     if !errorlevel! neq 0 pause
   )
